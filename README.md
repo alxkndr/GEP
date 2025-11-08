@@ -24,3 +24,37 @@ Ottieni il corpo dei tuoi sogni
 
 <h1>Tecnologie</h1>
 Mobile app
+
+<h1>UML Use Case</h1>
+
+// Sweet Use Case Diagram
+// ----------------------
+
+// Actors
+[Customer]-(Register / Login)
+[Customer]-(Manage Profile)
+[Customer]-(View Workout Plans)
+[Customer]-(Purchase Subscription)
+[Customer]-(Access Personal Trainer)
+[Customer]-(Access Nutritionist)
+[Customer]-(Receive Personalized Workout Plan)
+[Customer]-(Receive Nutrition Plan)
+
+[Trainer]-(Create Workout Plans)
+[Nutritionist]-(Create Nutrition Plans)
+[Admin]-(Manage Content and Subscriptions)
+
+// Include / Extend relationships
+(Access Personal Trainer)>(Receive Personalized Workout Plan)   // include
+(Access Nutritionist)>(Receive Nutrition Plan)                  // include
+
+(Purchase Subscription)<(Access Personal Trainer)               // extend
+(Purchase Subscription)<(Access Nutritionist)                   // extend
+
+// Inheritance (specialized actors)
+[Trainer]^[Customer]
+[Nutritionist]^[Customer]
+
+// Notes
+(Access Personal Trainer)-.-[note: Requires active subscription]
+(Access Nutritionist)-.-[note: Available only with nutrition plan]
