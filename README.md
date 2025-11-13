@@ -30,9 +30,9 @@
 <table>
   <thead>
     <tr>
-      <th>🧩 Caratteristica</th>
+      <th>⚙️ Caratteristica</th>
       <th>⭐ Importanza</th>
-      <th>🟢 BeastMode</th>
+      <th>💪 BeastMode</th>
       <th>🟠 FitBod</th>
       <th>🔵 Tracked</th>
       <th>🔴 BitDifferent</th>
