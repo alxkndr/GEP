@@ -147,40 +147,5 @@
 </ul>
 
 <h2>📊 UML Use Case</h2>
-[Utente]-(Registrazione e Autenticazione),
-[Utente]-(Creazione Profilo e Dati Fisici),
-[Utente]-(Generazione Schede di Allenamento),
-[Utente]-(Integrazione Piani Alimentari),
-[Utente]-(Accesso Video Tutorial),
-[Utente]-(Chat e Notifiche),
-[Utente]-(Dashboard Progressi),
-[Utente]-(Sezione Social / Video Motivazionali),
-[Utente]-(Gestione Abbonamenti e Pagamenti),
-
-[Personal Trainer]-(Generazione Schede di Allenamento),
-[Personal Trainer]-(Chat e Notifiche),
-[Personal Trainer]-(Dashboard Progressi),
-[Personal Trainer]-(Accesso Video Tutorial),
-
-[Nutrizionista]-(Integrazione Piani Alimentari),
-[Nutrizionista]-(Chat e Notifiche),
-[Nutrizionista]-(Dashboard Progressi),
-
-[Amministratore]-(Gestione Contenuti),
-[Amministratore]-(Gestione Abbonamenti e Pagamenti),
-[Amministratore]-(Sezione Social / Video Motivazionali),
-
-[Sistema Pagamenti]-(Gestione Abbonamenti e Pagamenti),
-
-(Registrazione e Autenticazione)>(Creazione Profilo e Dati Fisici),
-(Generazione Schede di Allenamento)>(Dashboard Progressi),
-(Integrazione Piani Alimentari)>(Dashboard Progressi),
-(Sezione Social / Video Motivazionali)>(Commenti Social),
-(Accesso Video Tutorial)>(Sezione Social / Video Motivazionali),
-
-(Registrazione e Autenticazione)<(Recupero Password),
-(Sezione Social / Video Motivazionali)<(Segnalazione/Moderazione),
-(Gestione Abbonamenti e Pagamenti)>(Notifiche Pagamento),
-
-[Utente]-(note: Accesso: gratuito/abbonamento; permessi differenziati per PT/Nutrizionista{bg:beige})
+<img width="957" height="913" alt="Immagine 2025-11-21 095108" src="https://github.com/user-attachments/assets/4ef75a57-cafb-4c9d-8296-2e7408e56635" />
 
