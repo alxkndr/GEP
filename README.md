@@ -342,3 +342,47 @@
   </div>
 </section>
 
+graph TD
+    A[BeastMode Web/App - WBS] --> B[Pianificazione (€5.000)]
+    B --> B1[Definizione requisiti (€1.000)]
+    B --> B2[Analisi competitor (€1.000)]
+    B --> B3[Definizione MVP (€2.000)]
+    B --> B4[Work Breakdown Structure (€1.000)]
+
+    A --> C[Design UI/UX (€10.000)]
+    C --> C1[Wireframe e prototipi (€3.000)]
+    C --> C2[Mockup ad alta fedeltà (€4.000)]
+    C --> C3[User Testing (€3.000)]
+
+    A --> D[Sviluppo Frontend (€25.000)]
+    D --> D1[Web responsive (Next.js + Tailwind) (€10.000)]
+    D --> D2[App Mobile iOS/Android (React Native/Flutter) (€15.000)]
+
+    A --> E[Sviluppo Backend (€20.000)]
+    E --> E1[API REST e WebSocket (€5.000)]
+    E --> E2[Database PostgreSQL + Redis (€5.000)]
+    E --> E3[Integrazione Machine Learning (€5.000)]
+    E --> E4[Sicurezza e autenticazione (€5.000)]
+
+    A --> F[Contenuti (€15.000)]
+    F --> F1[Video tutorial esercizi (€7.000)]
+    F --> F2[Piani alimentari personalizzati (€5.000)]
+    F --> F3[Schede allenamento (€3.000)]
+
+    A --> G[Integrazione coach e monitoraggio (€5.000)]
+    G --> G1[Chat e feedback coach (€3.000)]
+    G --> G2[Dashboard progressi e grafici (€2.000)]
+
+    A --> H[Testing e QA (€5.000)]
+    H --> H1[Bug fixing (€2.000)]
+    H --> H2[Test utente (€3.000)]
+
+    A --> I[Marketing & Lancio (€10.000)]
+    I --> I1[Campagne social (€5.000)]
+    I --> I2[Influencer e community (€3.000)]
+    I --> I3[Landing page e landing assets (€2.000)]
+
+    A --> J[Supporto e manutenzione (€5.000)]
+    J --> J1[Aggiornamenti software (€3.000)]
+    J --> J2[Monitoraggio performance (€2.000)]
+
