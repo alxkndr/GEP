@@ -148,4 +148,137 @@
 
 <h2>📊 UML Use Case</h2>
 <img width="957" height="913" alt="Immagine 2025-11-21 095108" src="https://github.com/user-attachments/assets/4ef75a57-cafb-4c9d-8296-2e7408e56635" />
+<hr>
 
+<h2>Elevator Pitch e Business Model – BeastMode Web/App</h2>
+
+<section id="opening-slide">
+  <h3>Slide 1: Opening Slide</h3>
+  <p><strong>Nome Azienda:</strong> BeastMode</p>
+  <p><strong>Progetto:</strong> Fitness Digitale Personalizzato</p>
+  <p><strong>Contatto:</strong> Alessandro Longo – <a href="mailto:alessandro.longo@email.com">alessandro.longo@email.com</a></p>
+  <p><em>Slogan:</em> “Allenati meglio, misura i tuoi progressi, raggiungi i tuoi obiettivi.”</p>
+</section>
+
+<section id="problema">
+  <h3>Slide 2: Il Problema</h3>
+  <p>Molti utenti si allenano in palestra o a casa senza una guida chiara. Questo porta a <strong>risultati limitati, stagnazione e frustrazione</strong>.</p>
+  <p>Non esiste ancora una piattaforma che combini:</p>
+  <ul>
+    <li>Programmi di allenamento personalizzati</li>
+    <li>Nutrizione su misura</li>
+    <li>Supporto da coach</li>
+    <li>Monitoraggio dei progressi in un’unica esperienza digitale</li>
+  </ul>
+</section>
+
+<section id="soluzione">
+  <h3>Slide 3: La Soluzione</h3>
+  <p>BeastMode offre una piattaforma digitale (Web + App) che permette di:</p>
+  <ul>
+    <li>Creare schede di allenamento personalizzate in base a obiettivi e livello</li>
+    <li>Fornire piani nutrizionali su misura, integrati con allenamenti</li>
+    <li>Visualizzare video tutorial dettagliati per ogni esercizio</li>
+    <li>Ricevere supporto e feedback diretto dai coach</li>
+    <li>Monitorare i progressi con grafici e dashboard motivanti</li>
+    <li>Accedere a contenuti video motivazionali e community</li>
+  </ul>
+</section>
+
+<section id="business-model">
+  <h3>Slide 4: Business Model</h3>
+  <ul>
+    <li>Abbonamenti flessibili: Base, Premium, Coach+</li>
+    <li>Ricavo principale: abbonamenti mensili, trimestrali o annuali, senza pubblicità</li>
+    <li>Il prestito richiesto di <strong>100.000 €</strong> servirà per:
+      <ul>
+        <li>Sviluppo Web/App e MVP</li>
+        <li>Produzione contenuti video</li>
+        <li>Integrazione con coach e strumenti di monitoraggio</li>
+        <li>Marketing iniziale e acquisizione utenti</li>
+      </ul>
+    </li>
+  </ul>
+</section>
+
+<section id="mercato">
+  <h3>Slide 5: Dimensione del Mercato</h3>
+  <p>Il settore del fitness digitale è in forte crescita: app di allenamento, nutrizione e coaching online hanno milioni di utenti in Europa.</p>
+  <p>Il mercato cresce di oltre 15% all’anno, con aumento della domanda di servizi personalizzati e integrati.</p>
+  <p>BeastMode si colloca nell’intersezione tra app di fitness, coaching digitale e community motivazionale.</p>
+</section>
+
+<section id="tecnologia">
+  <h3>Slide 6: Tecnologia e Expertise</h3>
+  <ul>
+    <li>Frontend: Next.js + Tailwind / React Native o Flutter</li>
+    <li>Backend: Node.js + NestJS, API REST e WebSocket</li>
+    <li>Machine Learning: personalizzazione schede e piani alimentari (TensorFlow / PyTorch Lite)</li>
+    <li>Sicurezza e dati: GDPR, HTTPS, protezione utenti</li>
+    <li>Pagamenti e abbonamenti: Stripe</li>
+    <li>Integrazione dispositivi fitness: Apple Health, Google Fit, Garmin</li>
+  </ul>
+</section>
+
+<section id="competitor">
+  <h3>Slide 7: Competitor</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Funzionalità</th>
+        <th>BeastMode</th>
+        <th>FitBod</th>
+        <th>Tracked</th>
+        <th>BitDifferent</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>Schede personalizzate</td><td>✅ Complete e adattive</td><td>Buone</td><td>Parziali</td><td>Limitate</td></tr>
+      <tr><td>Piani alimentari</td><td>✅ Personalizzati</td><td>❌</td><td>Base</td><td>❌</td></tr>
+      <tr><td>Video tutorial</td><td>✅ Completi</td><td>Limitati</td><td>Parziali</td><td>❌</td></tr>
+      <tr><td>Feedback coach</td><td>✅ Chat & supporto</td><td>❌</td><td>Solo community</td><td>❌</td></tr>
+      <tr><td>Progressi tracciati</td><td>✅ Grafici e metriche</td><td>✅</td><td>✅</td><td>❌</td></tr>
+      <tr><td>Community e contenuti</td><td>✅ Motivazionali</td><td>❌</td><td>❌</td><td>❌</td></tr>
+      <tr><td>Prezzo</td><td>✅ Abbonamento flessibile</td><td>Medio</td><td>Medio</td><td>Limitato</td></tr>
+      <tr><td>Nessuna pubblicità</td><td>✅</td><td>✅</td><td>✅</td><td>Possibile</td></tr>
+    </tbody>
+  </table>
+</section>
+
+<section id="vantaggi">
+  <h3>Slide 8: Perché BeastMode è migliore</h3>
+  <ul>
+    <li>Personalizzazione reale grazie al Machine Learning</li>
+    <li>Allenamento + nutrizione + coaching in un’unica app</li>
+    <li>Progressi chiari, misurabili e motivanti</li>
+    <li>Community e contenuti video per engagement</li>
+    <li>Prezzo flessibile, nessuna pubblicità, adatto a tutti</li>
+  </ul>
+</section>
+
+<section id="acquisizione">
+  <h3>Slide 9: Canali di Acquisizione Utenti</h3>
+  <ul>
+    <li>Social e community: Instagram, TikTok, YouTube</li>
+    <li>Referral program: “invita un amico” per completare i gruppi di utenti</li>
+    <li>Collaborazioni con coach e influencer fitness</li>
+  </ul>
+</section>
+
+<section id="team">
+  <h3>Slide 10: Team Fondatore</h3>
+  <ul>
+    <li>Alessandro Longo – Founder & CEO (Visione e strategia)</li>
+    <li>[CTO] – Sviluppo Web/App e integrazione ML</li>
+    <li>[Marketing Lead] – Growth, community e social media</li>
+  </ul>
+</section>
+
+<section id="milestones">
+  <h3>Slide 11: Milestones & Prestito Richiesto</h3>
+  <ul>
+    <li>Obiettivo primo anno: sviluppare MVP e testare il progetto con i primi utenti</li>
+    <li>Target 12 mesi: 1.000+ utenti attivi e test su monetizzazione abbonamenti</li>
+    <li>Prestito richiesto: 100.000 € per sviluppo, contenuti, integrazione coach e marketing iniziale</li>
+  </ul>
+</section>
