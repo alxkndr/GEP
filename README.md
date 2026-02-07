@@ -86,29 +86,23 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td>Utente</td><td>Registrarmi alla piattaforma</td><td>Creare un account e accedere ai servizi</td></tr>
+    <tr><td>Utente</td><td>Registrarmi alla piattaforma</td><td>Creare un account e accedere ai servizi personalizzati</td></tr>
     <tr><td>Utente</td><td>Effettuare il login</td><td>Accedere al mio profilo e alle funzionalità riservate</td></tr>
     <tr><td>Utente</td><td>Recuperare la password</td><td>Ripristinare l’accesso in caso di smarrimento</td></tr>
-    <tr><td>Utente</td><td>Gestire il mio profilo</td><td>Aggiornare dati personali e configurazioni</td></tr>
-    <tr><td>Utente</td><td>Cercare un libro nel catalogo</td><td>Trovarlo rapidamente tramite filtri e criteri</td></tr>
-    <tr><td>Utente</td><td>Leggere un libro tramite lettore integrato</td><td>Accedere comodamente ai contenuti digitali</td></tr>
-    <tr><td>Utente</td><td>Sincronizzare i miei progressi di lettura</td><td>Mantenerli aggiornati su tutti i dispositivi</td></tr>
-    <tr><td>Utente</td><td>Creare un gruppo di acquisto</td><td>Condividere l’acquisto e la lettura con altri utenti</td></tr>
-    <tr><td>Utente</td><td>Creare un gruppo pubblico</td><td>Permettere a chiunque di partecipare</td></tr>
-    <tr><td>Utente</td><td>Creare un gruppo privato</td><td>Limitare l’accesso agli utenti invitati</td></tr>
-    <tr><td>Utente</td><td>Partecipare a un gruppo di acquisto</td><td>Condividere costi e lettura con altri utenti</td></tr>
-    <tr><td>Utente</td><td>Visualizzare la quota da pagare</td><td>Sapere il costo della mia partecipazione</td></tr>
-    <tr><td>Utente → Sistema Bancario</td><td>Effettuare il checkout del pagamento</td><td>Completare la transazione in modo sicuro</td></tr>
-    <tr><td>Utente</td><td>Recensire un libro</td><td>Condividere giudizi e valutazioni</td></tr>
-    <tr><td>Utente</td><td>Recensire un gruppo</td><td>Valutare l’esperienza di partecipazione</td></tr>
-    <tr><td>Utente</td><td>Chattare con i membri del gruppo</td><td>Coordinare l’acquisto e la lettura</td></tr>
-    <tr><td>Utente</td><td>Inviare messaggi nel gruppo</td><td>Discutere del libro e dell’esperienza</td></tr>
-    <tr><td>Amministratore</td><td>Effettuare il login con privilegi</td><td>Accedere alle funzioni amministrative</td></tr>
-    <tr><td>Amministratore</td><td>Gestire il catalogo dei libri</td><td>Aggiungere, modificare o rimuovere contenuti</td></tr>
-    <tr><td>Amministratore → Editore</td><td>Verificare i diritti dei contenuti</td><td>Confermare licenze e autorizzazioni editoriali</td></tr>
+    <tr><td>Utente</td><td>Gestire il mio profilo</td><td>Aggiornare dati fisici, obiettivi e preferenze</td></tr>
+    <tr><td>Utente</td><td>Creare schede di allenamento personalizzate</td><td>Allenarmi secondo i miei obiettivi e livello</td></tr>
+    <tr><td>Utente</td><td>Creare piani alimentari su misura</td><td>Seguire una nutrizione compatibile con l’allenamento</td></tr>
+    <tr><td>Utente</td><td>Visualizzare video tutorial</td><td>Eseguire correttamente gli esercizi</td></tr>
+    <tr><td>Utente</td><td>Monitorare i miei progressi</td><td>Valutare i miglioramenti tramite grafici e dashboard</td></tr>
+    <tr><td>Utente</td><td>Ricevere feedback dai coach</td><td>Correggere esercizi e migliorare le prestazioni</td></tr>
+    <tr><td>Utente</td><td>Interagire con la community</td><td>Trovare motivazione e supporto</td></tr>
+    <tr><td>Utente</td><td>Gestire abbonamento</td><td>Accedere a contenuti Premium e Coach+</td></tr>
+    <tr><td>Utente → Sistema di Pagamento</td><td>Effettuare pagamenti sicuri</td><td>Completare transazioni per abbonamenti e servizi aggiuntivi</td></tr>
+    <tr><td>Amministratore</td><td>Effettuare il login con privilegi</td><td>Accedere alle funzioni di gestione e controllo della piattaforma</td></tr>
+    <tr><td>Amministratore</td><td>Gestire contenuti e schede</td><td>Aggiungere, modificare o rimuovere schede, piani e video</td></tr>
+    <tr><td>Amministratore → Coach</td><td>Verificare la qualità dei piani e contenuti</td><td>Assicurare che gli allenamenti e la nutrizione siano corretti e aggiornati</td></tr>
   </tbody>
 </table>
-
 <h3>🔹 Non Funzionali</h3>
 <ul>
   <li>Interfaccia moderna, chiara e intuitiva</li>
