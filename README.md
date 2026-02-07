@@ -346,60 +346,49 @@
 
 ```mermaid
 graph TB
-    %% Nodo principale
-    A[BeastMode Web/App - WBS] 
+    A[BeastMode Web/App WBS]
 
-    %% Fasi principali
-    A --> B1[Pianificazione (€5.000)]
-    A --> B2[Design UI/UX (€10.000)]
-    A --> B3[Sviluppo Frontend (€25.000)]
-    A --> B4[Sviluppo Backend (€20.000)]
-    A --> B5[Contenuti (€15.000)]
-    A --> B6[Integrazione Coach & Monitoraggio (€5.000)]
-    A --> B7[Testing & QA (€5.000)]
-    A --> B8[Marketing & Lancio (€10.000)]
-    A --> B9[Supporto & Manutenzione (€5.000)]
+    A --> B1[Pianificazione (5000)]
+    A --> B2[Design UIUX (10000)]
+    A --> B3[Sviluppo Frontend (25000)]
+    A --> B4[Sviluppo Backend (20000)]
+    A --> B5[Contenuti (15000)]
+    A --> B6[Integrazione Coach Monitoraggio (5000)]
+    A --> B7[Testing QA (5000)]
+    A --> B8[Marketing Lancio (10000)]
+    A --> B9[Supporto Manutenzione (5000)]
 
-    %% Sotto-attività Pianificazione
-    B1 --> B1a[Definizione requisiti (€1.000)]
-    B1 --> B1b[Analisi competitor (€1.000)]
-    B1 --> B1c[Definizione MVP (€2.000)]
-    B1 --> B1d[Work Breakdown Structure (€1.000)]
+    B1 --> B1a[Definizione requisiti (1000)]
+    B1 --> B1b[Analisi competitor (1000)]
+    B1 --> B1c[Definizione MVP (2000)]
+    B1 --> B1d[WBS (1000)]
 
-    %% Sotto-attività Design
-    B2 --> B2a[Wireframe & Prototipi (€3.000)]
-    B2 --> B2b[Mockup ad alta fedeltà (€4.000)]
-    B2 --> B2c[User Testing (€3.000)]
+    B2 --> B2a[Wireframe e prototipi (3000)]
+    B2 --> B2b[Mockup ad alta fedelta (4000)]
+    B2 --> B2c[User Testing (3000)]
 
-    %% Sotto-attività Frontend
-    B3 --> B3a[Web responsive (€10.000)]
-    B3 --> B3b[App Mobile iOS/Android (€15.000)]
+    B3 --> B3a[Web responsive (10000)]
+    B3 --> B3b[App Mobile iOS Android (15000)]
 
-    %% Sotto-attività Backend
-    B4 --> B4a[API REST & WebSocket (€5.000)]
-    B4 --> B4b[Database PostgreSQL + Redis (€5.000)]
-    B4 --> B4c[Integrazione Machine Learning (€5.000)]
-    B4 --> B4d[Sicurezza & Autenticazione (€5.000)]
+    B4 --> B4a[API REST e WebSocket (5000)]
+    B4 --> B4b[Database PostgreSQL Redis (5000)]
+    B4 --> B4c[Integrazione ML (5000)]
+    B4 --> B4d[Sicurezza e Autenticazione (5000)]
 
-    %% Sotto-attività Contenuti
-    B5 --> B5a[Video tutorial esercizi (€7.000)]
-    B5 --> B5b[Piani alimentari personalizzati (€5.000)]
-    B5 --> B5c[Schede allenamento (€3.000)]
+    B5 --> B5a[Video tutorial esercizi (7000)]
+    B5 --> B5b[Piani alimentari personalizzati (5000)]
+    B5 --> B5c[Schede allenamento (3000)]
 
-    %% Sotto-attività Integrazione coach
-    B6 --> B6a[Chat e feedback coach (€3.000)]
-    B6 --> B6b[Dashboard progressi & grafici (€2.000)]
+    B6 --> B6a[Chat e feedback coach (3000)]
+    B6 --> B6b[Dashboard progressi e grafici (2000)]
 
-    %% Sotto-attività Testing
-    B7 --> B7a[Bug fixing (€2.000)]
-    B7 --> B7b[Test utente (€3.000)]
+    B7 --> B7a[Bug fixing (2000)]
+    B7 --> B7b[Test utente (3000)]
 
-    %% Sotto-attività Marketing
-    B8 --> B8a[Campagne social (€5.000)]
-    B8 --> B8b[Influencer & community (€3.000)]
-    B8 --> B8c[Landing page & assets (€2.000)]
+    B8 --> B8a[Campagne social (5000)]
+    B8 --> B8b[Influencer e community (3000)]
+    B8 --> B8c[Landing page e assets (2000)]
 
-    %% Sotto-attività Supporto
-    B9 --> B9a[Aggiornamenti software (€3.000)]
-    B9 --> B9b[Monitoraggio performance (€2.000)]
+    B9 --> B9a[Aggiornamenti software (3000)]
+    B9 --> B9b[Monitoraggio performance (2000)]
 
