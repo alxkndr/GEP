@@ -113,39 +113,43 @@
 
 <hr>
 
-<h2>📊 Analisi dei Requisiti</h2>
+<h2>📊 Analisi dei Requisiti – BeastMode Web/App</h2>
 
-<h3>🔹 Requisiti Funzionali</h3>
-<ul>
-  <li>Registrazione e autenticazione</li>
-  <li>Creazione profilo e dati fisici</li>
-  <li>Generazione schede di allenamento</li>
-  <li>Integrazione piani alimentari</li>
-  <li>Accesso video tutorial</li>
-  <li>Chat e notifiche</li>
-  <li>Dashboard progressi</li>
-  <li>Sezione social/video motivazionali</li>
-</ul>
+<section id="descrizione-requisiti">
+  <h3>Descrizione dei requisiti</h3>
+  <p>La piattaforma di fitness digitale BeastMode consente agli utenti di registrarsi, accedere tramite login sicuro e recuperare la password in caso di smarrimento. Ogni utente autenticato può gestire il proprio profilo personale e utilizzare le funzionalità principali del sistema (<strong>funzionale</strong>).</p>
 
-<h3>🔹 Requisiti Non Funzionali</h3>
-<ul>
-  <li>UI/UX intuitiva</li>
-  <li>Performance elevate</li>
-  <li>Compatibilità multipiattaforma</li>
-  <li>Scalabilità e manutenzione</li>
-  <li>Sicurezza e privacy</li>
-  <li>Nessuna pubblicità</li>
-</ul>
+  <p>Gli utenti possono creare schede di allenamento personalizzate, impostare piani nutrizionali su misura, visualizzare video tutorial e monitorare i propri progressi tramite dashboard e grafici (<strong>funzionale</strong>).</p>
 
-<h3>🔹 Requisiti di Dominio</h3>
-<ul>
-  <li>Licenze e diritti su contenuti</li>
-  <li>Conformità GDPR</li>
-  <li>Gestione abbonamenti sicuri</li>
-  <li>Accesso controllato ai contenuti</li>
-  <li>Compatibilità con dispositivi fitness</li>
-</ul>
+  <p>È possibile ricevere feedback diretto dai coach e interagire con la community per supporto e motivazione (<strong>funzionale</strong>).</p>
 
+  <p>Il sistema gestisce pagamenti sicuri per eventuali servizi aggiuntivi o abbonamenti, integrati con Stripe per autorizzazione e validazione delle transazioni (<strong>funzionale</strong>).</p>
+
+  <p>Gli amministratori accedono con login privilegiato per gestire contenuti, schede di allenamento, piani nutrizionali e video tutorial, garantendo l’accuratezza dei contenuti (<strong>funzionale</strong>).</p>
+</section>
+
+<section id="requisiti-non-funzionali">
+  <h3>Requisiti Non Funzionali</h3>
+  <ul>
+    <li>Interfaccia semplice, chiara e intuitiva per utenti di qualsiasi livello</li>
+    <li>Tempi di risposta rapidi e disponibilità continua</li>
+    <li>Compatibilità multipiattaforma: Web, iOS, Android</li>
+    <li>Scalabilità modulare e facilità di manutenzione</li>
+    <li>Nessuna pubblicità</li>
+    <li>Sicurezza e privacy conformi a GDPR</li>
+  </ul>
+</section>
+
+<section id="requisiti-dominio">
+  <h3>Requisiti di Dominio</h3>
+  <ul>
+    <li>Tutti i contenuti video e piani sono protetti da copyright</li>
+    <li>Gestione abbonamenti e pagamenti sicuri tramite Stripe</li>
+    <li>Integrazione con dispositivi fitness: Apple Health, Google Fit, Garmin</li>
+    <li>Protezione dei contenuti tramite DRM e watermark dinamici</li>
+    <li>Conformità alle norme di privacy e agli standard di accessibilità (WCAG)</li>
+  </ul>
+</section>
 <h2>📊 UML Use Case</h2>
 <img width="957" height="913" alt="Immagine 2025-11-21 095108" src="https://github.com/user-attachments/assets/4ef75a57-cafb-4c9d-8296-2e7408e56635" />
 <hr>
