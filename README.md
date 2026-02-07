@@ -342,62 +342,52 @@
   </div>
 </section>
 
+
+# BeastMode Web/App - Work Breakdown Structure (WBS)
+
 ```mermaid
-graph TB
-    %% Nodo principale
-    A[BeastMode Web/App - WBS] 
+graph TD
+    A["BeastMode<br/>(€100k - 6 Mesi)"] --> B["Pianificazione & PM<br/>(€5k - 3 sett.)"]
+    A --> C["Design UI/UX<br/>(€10k - 4 sett.)"]
+    A --> D["Sviluppo Frontend<br/>(€25k - 8 sett.)"]
+    A --> E["Sviluppo Backend<br/>(€20k - 8 sett.)"]
+    A --> F["Contenuti & Video<br/>(€15k - 6 sett.)"]
+    A --> G["Integrazione Coach & ML<br/>(€5k - 3 sett.)"]
+    A --> H["Testing & QA<br/>(€5k - 3 sett.)"]
+    A --> I["Marketing & Lancio<br/>(€10k - 4 sett.)"]
+    A --> J["Supporto & Manutenzione<br/>(€5k - 4 sett.)"]
 
-    %% Fasi principali
-    A --> B1[Pianificazione (€5.000)]
-    A --> B2[Design UI/UX (€10.000)]
-    A --> B3[Sviluppo Frontend (€25.000)]
-    A --> B4[Sviluppo Backend (€20.000)]
-    A --> B5[Contenuti (€15.000)]
-    A --> B6[Integrazione Coach & Monitoraggio (€5.000)]
-    A --> B7[Testing & QA (€5.000)]
-    A --> B8[Marketing & Lancio (€10.000)]
-    A --> B9[Supporto & Manutenzione (€5.000)]
+    B --> B1["Definizione Requisiti<br/>(€1k - 1 sett.)"]
+    B --> B2["Analisi Competitor<br/>(€1k - 1 sett.)"]
+    B --> B3["Definizione MVP<br/>(€2k - 1 sett.)"]
+    B --> B4["WBS & Pianificazione<br/>(€1k - 1 sett.)"]
 
-    %% Sotto-attività Pianificazione
-    B1 --> B1a[Definizione requisiti (€1.000)]
-    B1 --> B1b[Analisi competitor (€1.000)]
-    B1 --> B1c[Definizione MVP (€2.000)]
-    B1 --> B1d[Work Breakdown Structure (€1.000)]
+    C --> C1["Wireframe & Prototipi<br/>(€3k - 1 sett.)"]
+    C --> C2["Mockup ad Alta Fedeltà<br/>(€4k - 2 sett.)"]
+    C --> C3["User Testing<br/>(€3k - 1 sett.)"]
 
-    %% Sotto-attività Design
-    B2 --> B2a[Wireframe & Prototipi (€3.000)]
-    B2 --> B2b[Mockup ad alta fedeltà (€4.000)]
-    B2 --> B2c[User Testing (€3.000)]
+    D --> D1["Web Responsive Next.js<br/>(€10k - 4 sett.)"]
+    D --> D2["App Mobile iOS/Android<br/>(€15k - 4 sett.)"]
 
-    %% Sotto-attività Frontend
-    B3 --> B3a[Web responsive (€10.000)]
-    B3 --> B3b[App Mobile iOS/Android (€15.000)]
+    E --> E1["API REST & WebSocket<br/>(€5k - 2 sett.)"]
+    E --> E2["Database PostgreSQL + Redis<br/>(€5k - 2 sett.)"]
+    E --> E3["Integrazione ML TensorFlow/PyTorch<br/>(€5k - 2 sett.)"]
+    E --> E4["Sicurezza & Autenticazione<br/>(€5k - 2 sett.)"]
 
-    %% Sotto-attività Backend
-    B4 --> B4a[API REST & WebSocket (€5.000)]
-    B4 --> B4b[Database PostgreSQL + Redis (€5.000)]
-    B4 --> B4c[Integrazione Machine Learning (€5.000)]
-    B4 --> B4d[Sicurezza & Autenticazione (€5.000)]
+    F --> F1["Video Tutorial Esercizi<br/>(€7k - 3 sett.)"]
+    F --> F2["Piani Alimentari Personalizzati<br/>(€5k - 2 sett.)"]
+    F --> F3["Schede Allenamento<br/>(€3k - 1 sett.)"]
 
-    %% Sotto-attività Contenuti
-    B5 --> B5a[Video tutorial esercizi (€7.000)]
-    B5 --> B5b[Piani alimentari personalizzati (€5.000)]
-    B5 --> B5c[Schede allenamento (€3.000)]
+    G --> G1["Chat & Feedback Coach<br/>(€3k - 2 sett.)"]
+    G --> G2["Dashboard Progressi & Grafici<br/>(€2k - 1 sett.)"]
 
-    %% Sotto-attività Integrazione coach
-    B6 --> B6a[Chat e feedback coach (€3.000)]
-    B6 --> B6b[Dashboard progressi & grafici (€2.000)]
+    H --> H1["Bug Fixing<br/>(€2k - 1 sett.)"]
+    H --> H2["Test Utente<br/>(€3k - 2 sett.)"]
 
-    %% Sotto-attività Testing
-    B7 --> B7a[Bug fixing (€2.000)]
-    B7 --> B7b[Test utente (€3.000)]
+    I --> I1["Campagne Social<br/>(€5k - 2 sett.)"]
+    I --> I2["Influencer & Community<br/>(€3k - 1 sett.)"]
+    I --> I3["Landing Page & Assets<br/>(€2k - 1 sett.)"]
 
-    %% Sotto-attività Marketing
-    B8 --> B8a[Campagne social (€5.000)]
-    B8 --> B8b[Influencer & community (€3.000)]
-    B8 --> B8c[Landing page & assets (€2.000)]
-
-    %% Sotto-attività Supporto
-    B9 --> B9a[Aggiornamenti software (€3.000)]
-    B9 --> B9b[Monitoraggio performance (€2.000)]
+    J --> J1["Aggiornamenti Software<br/>(€3k - 2 sett.)"]
+    J --> J2["Monitoraggio Performance<br/>(€2k - 2 sett.)"]
 ```
