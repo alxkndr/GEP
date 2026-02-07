@@ -342,47 +342,64 @@
   </div>
 </section>
 
-graph TD
-    A[BeastMode Web/App - WBS] --> B[Pianificazione (€5.000)]
-    B --> B1[Definizione requisiti (€1.000)]
-    B --> B2[Analisi competitor (€1.000)]
-    B --> B3[Definizione MVP (€2.000)]
-    B --> B4[Work Breakdown Structure (€1.000)]
+# BeastMode Web/App - Work Breakdown Structure (WBS)
 
-    A --> C[Design UI/UX (€10.000)]
-    C --> C1[Wireframe e prototipi (€3.000)]
-    C --> C2[Mockup ad alta fedeltà (€4.000)]
-    C --> C3[User Testing (€3.000)]
+```mermaid
+graph TB
+    %% Nodo principale
+    A[BeastMode Web/App - WBS] 
 
-    A --> D[Sviluppo Frontend (€25.000)]
-    D --> D1[Web responsive (Next.js + Tailwind) (€10.000)]
-    D --> D2[App Mobile iOS/Android (React Native/Flutter) (€15.000)]
+    %% Fasi principali
+    A --> B1[Pianificazione (€5.000)]
+    A --> B2[Design UI/UX (€10.000)]
+    A --> B3[Sviluppo Frontend (€25.000)]
+    A --> B4[Sviluppo Backend (€20.000)]
+    A --> B5[Contenuti (€15.000)]
+    A --> B6[Integrazione Coach & Monitoraggio (€5.000)]
+    A --> B7[Testing & QA (€5.000)]
+    A --> B8[Marketing & Lancio (€10.000)]
+    A --> B9[Supporto & Manutenzione (€5.000)]
 
-    A --> E[Sviluppo Backend (€20.000)]
-    E --> E1[API REST e WebSocket (€5.000)]
-    E --> E2[Database PostgreSQL + Redis (€5.000)]
-    E --> E3[Integrazione Machine Learning (€5.000)]
-    E --> E4[Sicurezza e autenticazione (€5.000)]
+    %% Sotto-attività Pianificazione
+    B1 --> B1a[Definizione requisiti (€1.000)]
+    B1 --> B1b[Analisi competitor (€1.000)]
+    B1 --> B1c[Definizione MVP (€2.000)]
+    B1 --> B1d[Work Breakdown Structure (€1.000)]
 
-    A --> F[Contenuti (€15.000)]
-    F --> F1[Video tutorial esercizi (€7.000)]
-    F --> F2[Piani alimentari personalizzati (€5.000)]
-    F --> F3[Schede allenamento (€3.000)]
+    %% Sotto-attività Design
+    B2 --> B2a[Wireframe & Prototipi (€3.000)]
+    B2 --> B2b[Mockup ad alta fedeltà (€4.000)]
+    B2 --> B2c[User Testing (€3.000)]
 
-    A --> G[Integrazione coach e monitoraggio (€5.000)]
-    G --> G1[Chat e feedback coach (€3.000)]
-    G --> G2[Dashboard progressi e grafici (€2.000)]
+    %% Sotto-attività Frontend
+    B3 --> B3a[Web responsive (€10.000)]
+    B3 --> B3b[App Mobile iOS/Android (€15.000)]
 
-    A --> H[Testing e QA (€5.000)]
-    H --> H1[Bug fixing (€2.000)]
-    H --> H2[Test utente (€3.000)]
+    %% Sotto-attività Backend
+    B4 --> B4a[API REST & WebSocket (€5.000)]
+    B4 --> B4b[Database PostgreSQL + Redis (€5.000)]
+    B4 --> B4c[Integrazione Machine Learning (€5.000)]
+    B4 --> B4d[Sicurezza & Autenticazione (€5.000)]
 
-    A --> I[Marketing & Lancio (€10.000)]
-    I --> I1[Campagne social (€5.000)]
-    I --> I2[Influencer e community (€3.000)]
-    I --> I3[Landing page e landing assets (€2.000)]
+    %% Sotto-attività Contenuti
+    B5 --> B5a[Video tutorial esercizi (€7.000)]
+    B5 --> B5b[Piani alimentari personalizzati (€5.000)]
+    B5 --> B5c[Schede allenamento (€3.000)]
 
-    A --> J[Supporto e manutenzione (€5.000)]
-    J --> J1[Aggiornamenti software (€3.000)]
-    J --> J2[Monitoraggio performance (€2.000)]
+    %% Sotto-attività Integrazione coach
+    B6 --> B6a[Chat e feedback coach (€3.000)]
+    B6 --> B6b[Dashboard progressi & grafici (€2.000)]
+
+    %% Sotto-attività Testing
+    B7 --> B7a[Bug fixing (€2.000)]
+    B7 --> B7b[Test utente (€3.000)]
+
+    %% Sotto-attività Marketing
+    B8 --> B8a[Campagne social (€5.000)]
+    B8 --> B8b[Influencer & community (€3.000)]
+    B8 --> B8c[Landing page & assets (€2.000)]
+
+    %% Sotto-attività Supporto
+    B9 --> B9a[Aggiornamenti software (€3.000)]
+    B9 --> B9b[Monitoraggio performance (€2.000)]
 
