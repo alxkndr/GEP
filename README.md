@@ -320,3 +320,25 @@
     <li>Prestito richiesto: 100.000 € per sviluppo, contenuti, integrazione coach e marketing iniziale</li>
   </ul>
 </section>
+
+<section id="elevator-pitch" class="py-8 px-4 bg-gray-50 dark:bg-gray-800">
+  <div class="max-w-4xl mx-auto text-center">
+    <h2 class="text-3xl font-bold mb-4 text-gray-900 dark:text-white">Elevator Pitch – BeastMode</h2>
+    <p class="mb-4 text-lg text-gray-700 dark:text-gray-300">
+      Ciao, sono <strong>Alessandro Longo</strong>, fondatore di <strong>BeastMode</strong>. 
+      Stiamo creando una <strong>piattaforma digitale di fitness personalizzato</strong> che integra allenamenti su misura, piani nutrizionali adattivi, video tutorial dettagliati e supporto diretto dei coach.
+    </p>
+    <p class="mb-4 text-lg text-gray-700 dark:text-gray-300">
+      In pochi mesi vogliamo testare il nostro <strong>MVP</strong> con i primi utenti per raccogliere feedback reali e ottimizzare l’esperienza.
+    </p>
+    <p class="mb-4 text-lg text-gray-700 dark:text-gray-300">
+      La nostra missione è rendere l’allenamento efficace, chiaro e misurabile, trasformando i progressi in dati concreti e motivazione costante.
+    </p>
+    <p class="mb-6 text-lg text-gray-700 dark:text-gray-300">
+      Con un team dedicato di sviluppatori e coach esperti, siamo pronti a guidare chiunque voglia ottenere risultati concreti e duraturi.
+    </p>
+    <a href="#contact" class="inline-block px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg shadow hover:bg-blue-700 transition">
+      Unisciti a noi
+    </a>
+  </div>
+</section>
