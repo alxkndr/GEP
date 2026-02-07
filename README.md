@@ -400,4 +400,4 @@ graph TB
     %% Sotto-attività Supporto
     B9 --> B9a[Aggiornamenti software (€3.000)]
     B9 --> B9b[Monitoraggio performance (€2.000)]
-
+```
