@@ -17,7 +17,7 @@
 
 <h2>👥 Target</h2>
 <ul>
-  <li>Uomini e donne (18–45 anni) che frequentano la palestra o si allenano da soli</li>
+  <li>Uomini e donne (18–60 anni) che frequentano la palestra o si allenano da soli</li>
   <li>Livelli: principianti, intermedi, avanzati</li>
   <li>Obiettivi: dimagrimento, forza, definizione, massa, ricomposizione corporea</li>
   <li>Persone che vogliono <strong>vedere progressi concreti</strong> e <strong>imparare la corretta esecuzione</strong></li>
