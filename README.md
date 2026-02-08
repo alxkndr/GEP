@@ -5,7 +5,7 @@
 
 <hr>
 
-<h2>🎯 Mission</h2>
+<h2>🎯 Missione</h2>
 <p><em>“Sapere come comportarsi per ottenere i massimi risultati è spesso complesso. Con questa Web/App è tutto più semplice.”</em></p>
 
 <hr>
