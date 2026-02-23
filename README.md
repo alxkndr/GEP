@@ -225,17 +225,26 @@
 
 <section id="business-model">
   <h3>Slide 4: Business Model</h3>
+
+  <h4>Modello Freemium con abbonamenti premium</h4>
+  <ul>
+    <li>Accesso gratuito alle funzionalità base</li>
+    <li>Upgrade a piani Premium e Coach+</li>
+    <li>Monetizzazione tramite abbonamenti mensili, trimestrali o annuali</li>
+    <li>Nessuna pubblicità</li>
+  </ul>
+
+  <h4>Ricavi principali</h4>
   <ul>
     <li>Abbonamenti flessibili: Base, Premium, Coach+</li>
-    <li>Ricavo principale: abbonamenti mensili, trimestrali o annuali, senza pubblicità</li>
-    <li>Il prestito richiesto di <strong>100.000 €</strong> servirà per:
-      <ul>
-        <li>Sviluppo Web/App e MVP</li>
-        <li>Produzione contenuti video</li>
-        <li>Integrazione con coach e strumenti di monitoraggio</li>
-        <li>Marketing iniziale e acquisizione utenti</li>
-      </ul>
-    </li>
+  </ul>
+
+  <h4>Utilizzo del prestito richiesto (125.000 €)</h4>
+  <ul>
+    <li>Sviluppo Web/App e MVP</li>
+    <li>Produzione contenuti video</li>
+    <li>Integrazione con coach e strumenti di monitoraggio</li>
+    <li>Marketing iniziale e acquisizione utenti</li>
   </ul>
 </section>
 
@@ -334,7 +343,7 @@
       Abbiamo già progettato l’infrastruttura tecnologica con dashboard interattive, tracking dei progressi e integrazione con dispositivi fitness. I pagamenti e gli abbonamenti sono sicuri e senza pubblicità.
     </p>
     <p class="mb-6 text-lg text-gray-700 dark:text-gray-300">
-      Oggi cerchiamo un investimento iniziale di <strong>100.000€</strong> per completare lo sviluppo del MVP, produrre contenuti video, integrare i coach e lanciare il progetto sul mercato. Siete pronti a rivoluzionare con noi il modo in cui le persone si allenano?
+      Oggi cerchiamo un investimento iniziale di <strong>125.000€</strong> per completare lo sviluppo del MVP, produrre contenuti video, integrare i coach e lanciare il progetto sul mercato. Siete pronti a rivoluzionare con noi il modo in cui le persone si allenano?
     </p>
     <a href="#contact" class="inline-block px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg shadow hover:bg-blue-700 transition">
       Unisciti a noi
