@@ -324,8 +324,8 @@
 <section id="milestones">
   <h3>Slide 11: Milestones & Prestito Richiesto</h3>
   <ul>
-    <li>Obiettivo primo anno: sviluppare MVP e testare il progetto con i primi utenti</li>
-    <li>Target 12 mesi: 1.000+ utenti attivi e test su monetizzazione abbonamenti</li>
+    <li>Obiettivo primi 6 mesi: sviluppare MVP e testare il progetto con i primi utenti</li>
+    <li>Target 6 mesi: 1.000+ utenti attivi e completamento dello sviluppo</li>
     <li>Prestito richiesto: 100.000 € per sviluppo, contenuti, integrazione coach e marketing iniziale</li>
   </ul>
 </section>
@@ -400,3 +400,53 @@ graph TD
     J --> J1["Aggiornamenti Software<br/>(€3k - 2 sett.)"]
     J --> J2["Monitoraggio Performance<br/>(€2k - 2 sett.)"]
 ```
+gantt
+    title BeastMode - Piano Progetto (6 Mesi)
+    dateFormat  YYYY-MM-DD
+    excludes    weekends
+
+    section PM
+    Requisiti            :b1, 2026-03-01, 1w
+    Competitor           :b2, after b1, 1w
+    MVP                  :b3, after b2, 1w
+    Planning             :b4, after b3, 1w
+
+    section Design
+    Wireframe            :c1, after b2, 1w
+    Mockup               :c2, after c1, 2w
+    User Test UX         :c3, after c2, 1w
+
+    section Backend
+    API                  :e1, after b4, 2w
+    DB Setup             :e2, after e1, 2w
+    ML Integration       :e3, after e2, 2w
+    Security/Auth        :e4, after e3, 2w
+
+    section Frontend
+    Web App              :d1, after c3, 4w
+    Mobile App           :d2, after d1, 4w
+
+    section Content
+    Video                :f1, after b4, 3w
+    Nutrition Plans      :f2, after f1, 2w
+    Workouts             :f3, after f2, 1w
+
+    section Coach & ML
+    Coach Chat           :g1, after e2, 2w
+    Progress Dashboard   :g2, after g1, 1w
+
+    section QA
+    Bug Fix              :h1, after d2, 1w
+    User Test            :h2, after h1, 2w
+
+    section Marketing
+    Social Campaign      :i1, after c3, 2w
+    Influencer           :i2, after i1, 1w
+    Landing Page         :i3, after i2, 1w
+
+    section Support
+    Updates              :j1, after h2, 2w
+    Monitoring           :j2, after j1, 2w
+
+    section Milestone
+    Dev Complete         :milestone, m1, 2026-08-31, 0d
