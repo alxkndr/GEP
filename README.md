@@ -400,7 +400,7 @@ graph TD
     J --> J1["Aggiornamenti Software<br/>(€3k - 2 sett.)"]
     J --> J2["Monitoraggio Performance<br/>(€2k - 2 sett.)"]
 ```
-gantt
+```mermaid
     title BeastMode - Piano Progetto (6 Mesi)
     dateFormat  YYYY-MM-DD
     excludes    weekends
@@ -450,3 +450,4 @@ gantt
 
     section Milestone
     Dev Complete         :milestone, m1, 2026-08-31, 0d
+```
