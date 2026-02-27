@@ -401,6 +401,7 @@ graph TD
     J --> J2["Monitoraggio Performance<br/>(€2k - 2 sett.)"]
 ```
 ```mermaid
+gantt
     title BeastMode - Piano Progetto (6 Mesi)
     dateFormat  YYYY-MM-DD
     excludes    weekends
