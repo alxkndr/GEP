@@ -402,48 +402,48 @@ graph TD
 ```
 ```mermaid
 gantt
-    title BeastMode - Roadmap Prodotto (6 Mesi)
+    title BeastMode - Roadmap 3 Mesi (Lancio Completo)
     dateFormat  YYYY-MM-DD
     excludes    weekends
 
     section Discovery
-    Scope & MVP Definizione     :a1, 2026-03-01, 2w
-    UX Flow & Architettura      :a2, after a1, 2w
+    Scope & MVP Definizione     :a1, 2026-03-01, 1w
+    UX Flow & Architettura      :a2, after a1, 1w
 
     section Design
-    Wireframe Core              :b1, after a1, 2w
-    UI System                   :b2, after b1, 2w
+    Wireframe Core              :b1, after a1, 1w
+    UI System                   :b2, after b1, 1w
     Prototype Test              :b3, after b2, 1w
 
     section Backend
-    Setup Infra & DB            :c1, after a1, 2w
-    API Core                    :c2, after c1, 3w
-    Auth & Security             :c3, after c1, 2w
-    AI / ML Base Logic          :c4, after c2, 3w
+    Setup Infra & DB            :c1, after a1, 1w
+    API Core                    :c2, after c1, 2w
+    Auth & Security             :c3, after c1, 1w
+    AI / ML Base Logic          :c4, after c2, 2w
 
     section Frontend
-    Web App MVP                 :d1, after b2, 4w
-    Mobile MVP                  :d2, after d1, 4w
-    Dashboard & Progress        :d3, after d1, 2w
+    Web App MVP                 :d1, after b2, 2w
+    Mobile MVP                  :d2, after d1, 2w
+    Dashboard & Progress        :d3, after d1, 1w
 
     section AI Coach
-    Chat Integration            :e1, after c4, 2w
-    Personalization Logic       :e2, after e1, 2w
+    Chat Integration            :e1, after c4, 1w
+    Personalization Logic       :e2, after e1, 1w
 
     section Content
-    Workout Library             :f1, after a1, 4w
-    Nutrition Base Plans        :f2, after f1, 2w
+    Workout Library             :f1, after a1, 2w
+    Nutrition Base Plans        :f2, after f1, 1w
 
     section QA & Beta
-    Internal Testing            :g1, after d2, 2w
-    Closed Beta Users           :g2, after g1, 3w
-    Iterazioni & Fix            :g3, after g2, 2w
+    Internal Testing            :g1, after d2, 1w
+    Closed Beta Users           :g2, after g1, 1w
+    Iterazioni & Fix            :g3, after g2, 1w
 
     section Marketing
-    Branding & Landing          :h1, after a1, 3w
-    Pre-Launch Campaign         :h2, after h1, 4w
-    Launch Campaign             :h3, after g2, 2w
+    Branding & Landing          :h1, after a1, 1w
+    Pre-Launch Campaign         :h2, after h1, 2w
+    Launch Campaign             :h3, after g3, 1w
 
     section Milestone
-    Public Launch               :milestone, m1, 2026-08-31, 0d
+    Public Launch               :milestone, m1, 2026-05-31, 0d
 ```
