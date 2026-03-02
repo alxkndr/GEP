@@ -175,6 +175,9 @@
 <section id="intro">
   <p>Scopri <strong>BeastMode</strong>, la piattaforma digitale che unisce allenamenti personalizzati, piani nutrizionali e supporto dei coach in un’unica Web/App.</p>
   <p>Accedi al tuo percorso di fitness su <a href="https://beastmode-your-fit-plan.lovable.app" target="_blank">beastmode-your-fit-plan.lovable.app</a> e trasforma i tuoi allenamenti in risultati misurabili.</p>
+  <img width="862" height="840" alt="image" src="https://github.com/user-attachments/assets/b4aebc11-278f-492a-b513-4c082380bd83" />
+<img width="862" height="840" alt="Immagine 2026-03-02 165745" src="https://github.com/user-attachments/assets/6bfa199c-e37d-467d-93da-95e78db103eb" />
+
 </section>
 <hr>
 
