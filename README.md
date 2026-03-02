@@ -88,34 +88,43 @@
 
 <h2>⚙️ Tecnologie utilizzate</h2>
 
-<ul>
-  <li><strong>Frontend:</strong> Next.js (React) + Tailwind CSS | Mobile: React Native o Flutter</li>
-  <li><strong>Backend:</strong> Node.js con NestJS | API REST + WebSocket</li>
-  <li><strong>Database:</strong> PostgreSQL + Redis</li>
-  <li><strong>Autenticazione:</strong> OAuth 2.0 / JWT (Auth0 o Firebase)</li>
-  <li><strong>Pagamenti:</strong> Stripe</li>
-  <h3>Frontend Web/App</h3>
+<h3>Frontend</h3>
 <p>
-  Next.js (Web) o React Native / Flutter (Mobile) integrano il checkout Stripe. 
-  Possibilità di usare <strong>Stripe Elements</strong> per moduli sicuri di pagamento direttamente dentro l’app.
+  <strong>Web:</strong> Next.js (React) + Tailwind CSS<br>
+  <strong>Mobile:</strong> React Native o Flutter<br>
+  Integrano il checkout Stripe tramite Stripe Elements per pagamenti sicuri.
 </p>
 
 <h3>Backend</h3>
-<p>Node.js + NestJS gestisce:</p>
-<ul>
-  <li>Creazione di <strong>customer Stripe</strong> per ogni utente registrato.</li>
-  <li>Creazione di <strong>subscription</strong> per il piano scelto.</li>
-  <li>Ricezione di <strong>webhook Stripe</strong> per aggiornare lo stato dell’abbonamento, pagamenti riusciti/falliti, cancellazioni.</li>
-</ul>
-  <li><strong>Storage:</strong> AWS S3 + Cloudflare CDN</li>
-  <li><strong>Machine Learning:</strong> TensorFlow / PyTorch Lite (personalizzazione schede)</li>
-  <li><strong>Hosting:</strong> AWS / Google Cloud / Vercel</li>
-  <li><strong>Sicurezza:</strong> HTTPS, AES, bcrypt, 2FA</li>
-  <li><strong>Monitoraggio:</strong> Sentry + Mixpanel / Google Analytics</li>
-  <li><strong>CI/CD:</strong> GitHub + GitHub Actions</li>
-</ul>
+<p>
+  Node.js + NestJS<br>
+  Gestisce la creazione di customer Stripe, subscription e webhook per aggiornamenti di pagamento.<br>
+  API REST e WebSocket per comunicazione in tempo reale.
+</p>
 
-<hr>
+<h3>Database</h3>
+<p>PostgreSQL + Redis</p>
+
+<h3>Autenticazione</h3>
+<p>OAuth 2.0 / JWT (Auth0 o Firebase)</p>
+
+<h3>Storage & Hosting</h3>
+<p>
+  AWS S3 + Cloudflare CDN<br>
+  Hosting su AWS, Google Cloud o Vercel
+</p>
+
+<h3>Machine Learning</h3>
+<p>TensorFlow / PyTorch Lite per personalizzazione delle schede</p>
+
+<h3>Sicurezza</h3>
+<p>HTTPS, AES, bcrypt, 2FA</p>
+
+<h3>Monitoraggio</h3>
+<p>Sentry + Mixpanel / Google Analytics</p>
+
+<h3>CI/CD</h3>
+<p>GitHub + GitHub Actions</p>
 
 <h2>📊 Analisi dei Requisiti – BeastMode Web/App</h2>
 
