@@ -57,9 +57,9 @@
 
 <hr>
 
-<h2>🧩 Funzionalità Principali</h2>
+<h2>Funzionalità Principali</h2>
 
-<h3>🔹 Funzionali</h3>
+<h3>Funzionali</h3>
 <ol>
   <li>Registrazione, login e recupero password</li>
   <li>Creazione profilo utente con dati fisici, obiettivi e livello</li>
@@ -75,7 +75,7 @@
 </ol>
 <hr>
 
-<h2>📖 User Stories – BeastMode Web/App</h2>
+<h2>User Stories – BeastMode Web/App</h2>
 
 <table>
   <thead>
@@ -103,26 +103,6 @@
     <tr><td>Amministratore → Coach</td><td>Verificare la qualità dei piani e contenuti</td><td>Assicurare che gli allenamenti e la nutrizione siano corretti e aggiornati</td></tr>
   </tbody>
 </table>
-<h3>🔹 Non Funzionali</h3>
-<ul>
-  <li>Interfaccia moderna, chiara e intuitiva</li>
-  <li>Caricamento rapido e fluido</li>
-  <li>Compatibilità multipiattaforma (Web, iOS, Android)</li>
-  <li>Alta disponibilità (99.9%)</li>
-  <li>Nessuna pubblicità</li>
-  <li>Protezione dati e privacy (GDPR)</li>
-  <li>Design responsive e motivante</li>
-</ul>
-
-<h3>🔹 Di Dominio</h3>
-<ul>
-  <li>Contenuti video e piani protetti da copyright</li>
-  <li>Dati utente trattati in conformità al GDPR</li>
-  <li>Abbonamenti mensili/trimestrali (Base, Premium, Coach+)</li>
-  <li>Integrazione dispositivi fitness (Apple Health, Google Fit, Garmin)</li>
-</ul>
-
-<hr>
 
 <h2>⚙️ Tecnologie</h2>
 
