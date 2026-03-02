@@ -146,15 +146,24 @@
 
 <section id="descrizione-requisiti">
   <h3>Descrizione dei requisiti</h3>
-  <p>La piattaforma di fitness digitale BeastMode consente agli utenti di registrarsi, accedere tramite login sicuro e recuperare la password in caso di smarrimento. Ogni utente autenticato può gestire il proprio profilo personale e utilizzare le funzionalità principali del sistema (<strong>funzionale</strong>).</p>
-
-  <p>Gli utenti possono creare schede di allenamento personalizzate, impostare piani nutrizionali su misura, visualizzare video tutorial e monitorare i propri progressi tramite dashboard e grafici (<strong>funzionale</strong>).</p>
-
-  <p>È possibile ricevere feedback diretto dai coach e interagire con la community per supporto e motivazione (<strong>funzionale</strong>).</p>
-
-  <p>Il sistema gestisce pagamenti sicuri per eventuali servizi aggiuntivi o abbonamenti, integrati con Stripe per autorizzazione e validazione delle transazioni (<strong>funzionale</strong>).</p>
-
-  <p>Gli amministratori accedono con login privilegiato per gestire contenuti, schede di allenamento, piani nutrizionali e video tutorial, garantendo l’accuratezza dei contenuti (<strong>funzionale</strong>).</p>
+  
+  <p>La piattaforma digitale <strong>BeastMode</strong> consente agli utenti di registrarsi, accedere tramite login sicuro e recuperare la password in caso di smarrimento. Ogni utente autenticato può gestire il proprio profilo personale, aggiornando dati fisici, obiettivi e preferenze, e utilizzare le funzionalità principali del sistema (<strong>funzionale</strong>).</p>
+  
+  <p>Gli utenti possono creare schede di allenamento personalizzate in base al proprio livello e obiettivi, impostare piani nutrizionali su misura, visualizzare video tutorial dettagliati e monitorare i progressi tramite dashboard interattive e grafici (<strong>funzionale</strong>).</p>
+  
+  <p>È possibile ricevere feedback diretto dai coach tramite chat interna e interagire con la community per supporto e motivazione, incluse funzionalità di gamification come badge, ranking e progress bar (<strong>funzionale</strong>).</p>
+  
+  <p>Il sistema gestisce abbonamenti e pagamenti sicuri tramite <strong>Stripe</strong>, consentendo l’accesso a contenuti Premium e Coach+ solo dopo la validazione della transazione (<strong>funzionale</strong>).</p>
+  
+  <p>Gli amministratori accedono con login privilegiato per gestire contenuti, schede di allenamento, piani nutrizionali e video tutorial, garantendo l’accuratezza dei contenuti e la verifica dei diritti editoriali tramite l’attore esterno <strong>Editore</strong> (<strong>funzionale</strong>).</p>
+  
+  <p>L’interfaccia della piattaforma è progettata per essere chiara, intuitiva e motivante, accessibile anche a utenti con competenze tecnologiche limitate (<strong>non funzionale</strong>).</p>
+  
+  <p>Il sistema garantisce tempi di risposta rapidi, disponibilità continua, compatibilità multipiattaforma (Web, iOS, Android) e architettura modulare scalabile, facilmente manutenibile, senza contenuti pubblicitari (<strong>non funzionale</strong>).</p>
+  
+  <p>Tutti i contenuti video, le schede e i piani sono protetti da copyright e DRM, con watermark dinamici, conformi alle normative sulla privacy (GDPR) e agli standard di accessibilità WCAG (<strong>di dominio</strong>).</p>
+  
+  <p>Il modello economico si basa su abbonamenti Freemium: gli utenti possono accedere gratuitamente alle funzionalità base, mentre contenuti avanzati e supporto diretto dai coach sono disponibili tramite abbonamenti Premium e Coach+ (<strong>di dominio</strong>).</p>
 </section>
 
 <section id="requisiti-non-funzionali">
