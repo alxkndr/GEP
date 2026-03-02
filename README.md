@@ -396,48 +396,42 @@ graph TD
 ```
 ```mermaid
 gantt
-    title BeastMode - Roadmap 3 Mesi (Lancio Completo)
-    dateFormat  YYYY-MM-DD
+    title BeastMode - Roadmap Web/App 3 Mesi (Stato al 02-03)
+    dateFormat  MM-DD
     excludes    weekends
 
-    section Discovery
-    Scope & MVP Definizione     :a1, 2026-03-01, 1w
-    UX Flow & Architettura      :a2, after a1, 1w
+    %% ----------------------------
+    section 1. Accordi Editoriali (€5.0k)
+    Accordi editoriali            :ae1, 02-01, 1w
+    Definizione contenuti          :ae2, after ae1, 1w
 
-    section Design
-    Wireframe Core              :b1, after a1, 1w
-    UI System                   :b2, after b1, 1w
-    Prototype Test              :b3, after b2, 1w
+    %% ----------------------------
+    section 2. Infrastruttura & Security (€6.0k)
+    Setup cloud e CDN             :is1, 02-08, 1w
+    GDPR e autenticazione         :is2, after is1, 1w
+    DRM e protezione contenuti    :is3, after is2, 1w
 
-    section Backend
-    Setup Infra & DB            :c1, after a1, 1w
-    API Core                    :c2, after c1, 2w
-    Auth & Security             :c3, after c1, 1w
-    AI / ML Base Logic          :c4, after c2, 2w
+    %% ----------------------------
+    section 3. Backend & Database (€10.0k)
+    Schema DB & API               :bd1, 02-15, 1.5w
+    Gestione utenti e chat        :bd2, after bd1, 1.5w
+    Pagamenti Stripe + abbonamenti :bd3, after bd2, 1w
 
-    section Frontend
-    Web App MVP                 :d1, after b2, 2w
-    Mobile MVP                  :d2, after d1, 2w
-    Dashboard & Progress        :d3, after d1, 1w
+    %% ----------------------------
+    section 4. Frontend & UX (€9.0k)
+    UI/UX design Web & Mobile     :fe1, 02-08, 1.5w
+    Web App & Mobile App          :fe2, after fe1, 2w
+    Dashboard & video tutorial    :fe3, after fe2, 1w
 
-    section AI Coach
-    Chat Integration            :e1, after c4, 1w
-    Personalization Logic       :e2, after e1, 1w
+    %% ----------------------------
+    section 5. Testing & Lancio (4.0k)
+    Test e bug fixing             :tl1, after fe3, 2w
+    Analytics e lancio beta       :tl2, after tl1, 1w
 
-    section Content
-    Workout Library             :f1, after a1, 2w
-    Nutrition Base Plans        :f2, after f1, 1w
+    %% ----------------------------
+    Lancio beta                   :milestone, after tl2, 0d
 
-    section QA & Beta
-    Internal Testing            :g1, after d2, 1w
-    Closed Beta Users           :g2, after g1, 1w
-    Iterazioni & Fix            :g3, after g2, 1w
-
-    section Marketing
-    Branding & Landing          :h1, after a1, 1w
-    Pre-Launch Campaign         :h2, after h1, 2w
-    Launch Campaign             :h3, after g3, 1w
-
-    section Milestone
-    Public Launch               :milestone, m1, 2026-05-31, 0d
+    %% ----------------------------
+    section Stato Attuale
+    Completato al 02-03          :done, 03-02, 0d
 ```
