@@ -230,7 +230,7 @@
 
   <h4>Ricavi principali</h4>
   <ul>
-    <li>Abbonamenti flessibili: Base, Premium, Coach+</li>
+    <li>Freemium, ma spingeremo a scegliere Hyper per stravolgere la propria condizione</li>
   </ul>
 
   <h4>Utilizzo del prestito richiesto (125.000 €)</h4>
