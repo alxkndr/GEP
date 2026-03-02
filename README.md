@@ -94,6 +94,19 @@
   <li><strong>Database:</strong> PostgreSQL + Redis</li>
   <li><strong>Autenticazione:</strong> OAuth 2.0 / JWT (Auth0 o Firebase)</li>
   <li><strong>Pagamenti:</strong> Stripe</li>
+  <h3>Frontend Web/App</h3>
+<p>
+  Next.js (Web) o React Native / Flutter (Mobile) integrano il checkout Stripe. 
+  Possibilità di usare <strong>Stripe Elements</strong> per moduli sicuri di pagamento direttamente dentro l’app.
+</p>
+
+<h3>Backend</h3>
+<p>Node.js + NestJS gestisce:</p>
+<ul>
+  <li>Creazione di <strong>customer Stripe</strong> per ogni utente registrato.</li>
+  <li>Creazione di <strong>subscription</strong> per il piano scelto.</li>
+  <li>Ricezione di <strong>webhook Stripe</strong> per aggiornare lo stato dell’abbonamento, pagamenti riusciti/falliti, cancellazioni.</li>
+</ul>
   <li><strong>Storage:</strong> AWS S3 + Cloudflare CDN</li>
   <li><strong>Machine Learning:</strong> TensorFlow / PyTorch Lite (personalizzazione schede)</li>
   <li><strong>Hosting:</strong> AWS / Google Cloud / Vercel</li>
@@ -220,11 +233,11 @@
 <section id="business-model">
   <h3>Slide 4: Business Model</h3>
 
-  <h4>Modello Freemium con abbonamenti premium</h4>
+  <h4>Modello Freemium con abbonamento hyper</h4>
   <ul>
     <li>Accesso gratuito alle funzionalità base</li>
-    <li>Upgrade a piani Premium e Coach+</li>
-    <li>Monetizzazione tramite abbonamenti mensili, trimestrali o annuali</li>
+    <li>Upgrade al piano hyper</li>
+    <li>Monetizzazione tramite abbonamenti annuali, in futuro forse aggiungeremo mensili (3, 6 mesi)</li>
     <li>Nessuna pubblicità</li>
   </ul>
 
@@ -415,7 +428,7 @@ gantt
     section 3. Backend & Database (€10.0k)
     Schema DB & API               :bd1, 02-15, 1.5w
     Gestione utenti e chat        :bd2, after bd1, 1.5w
-    Pagamenti Stripe + abbonamenti :bd3, after bd2, 1w
+    Pagamenti Stripe              :bd3, after bd2, 1w
 
     %% ----------------------------
     section 4. Frontend & UX (€9.0k)
