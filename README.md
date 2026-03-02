@@ -57,24 +57,6 @@
 
 <hr>
 
-<h2>Funzionalità Principali</h2>
-
-<h3>Funzionali</h3>
-<ol>
-  <li>Registrazione, login e recupero password</li>
-  <li>Creazione profilo utente con dati fisici, obiettivi e livello</li>
-  <li>Schede di allenamento personalizzate</li>
-  <li>Piani alimentari integrati</li>
-  <li>Video-esecuzioni di ogni esercizio</li>
-  <li>Tracking progressi (peso, misure, carichi, performance)</li>
-  <li>Chat e interazione con coach</li>
-  <li>Notifiche e reminder</li>
-  <li>Sezione video marketing</li>
-  <li>Dashboard risultati e grafici</li>
-  <li>Gamification (badge, progress bar, ranking)</li>
-</ol>
-<hr>
-
 <h2>User Stories – BeastMode Web/App</h2>
 
 <table>
@@ -104,7 +86,7 @@
   </tbody>
 </table>
 
-<h2>⚙️ Tecnologie</h2>
+<h2>⚙️ Tecnologie utilizzate</h2>
 
 <ul>
   <li><strong>Frontend:</strong> Next.js (React) + Tailwind CSS | Mobile: React Native o Flutter</li>
@@ -145,6 +127,23 @@
   
   <p>Il modello economico si basa su abbonamenti Freemium: gli utenti possono accedere gratuitamente alle funzionalità base, mentre contenuti avanzati e supporto diretto dai coach sono disponibili tramite abbonamenti Premium e Coach+ (<strong>di dominio</strong>).</p>
 </section>
+
+<section id="requisiti-funzionali">
+<h3>Requisiti Funzionali</h3>
+<ol>
+  <li>Registrazione, login e recupero password</li>
+  <li>Creazione profilo utente con dati fisici, obiettivi e livello</li>
+  <li>Schede di allenamento personalizzate</li>
+  <li>Piani alimentari integrati</li>
+  <li>Video-esecuzioni di ogni esercizio</li>
+  <li>Tracking progressi (peso, misure, carichi, performance)</li>
+  <li>Chat e interazione con coach</li>
+  <li>Notifiche e reminder</li>
+  <li>Sezione video marketing</li>
+  <li>Dashboard risultati e grafici</li>
+  <li>Gamification (badge, progress bar, ranking)</li>
+</ol>
+<hr>
 
 <section id="requisiti-non-funzionali">
   <h3>Requisiti Non Funzionali</h3>
