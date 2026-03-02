@@ -78,7 +78,7 @@
     <tr><td>Utente</td><td>Monitorare i miei progressi</td><td>Valutare i miglioramenti tramite grafici e dashboard</td></tr>
     <tr><td>Utente</td><td>Ricevere feedback dai coach</td><td>Correggere esercizi e migliorare le prestazioni</td></tr>
     <tr><td>Utente</td><td>Interagire con la community</td><td>Trovare motivazione e supporto</td></tr>
-    <tr><td>Utente</td><td>Gestire abbonamento</td><td>Accedere a contenuti Premium e Coach+</td></tr>
+    <tr><td>Utente</td><td>Gestire abbonamento</td><td>Freemium, con abbonamenti mensili trimestrali o annuali</td></tr>
     <tr><td>Utente → Sistema di Pagamento</td><td>Effettuare pagamenti sicuri</td><td>Completare transazioni per abbonamenti e servizi aggiuntivi</td></tr>
     <tr><td>Amministratore</td><td>Effettuare il login con privilegi</td><td>Accedere alle funzioni di gestione e controllo della piattaforma</td></tr>
     <tr><td>Amministratore</td><td>Gestire contenuti e schede</td><td>Aggiungere, modificare o rimuovere schede, piani e video</td></tr>
