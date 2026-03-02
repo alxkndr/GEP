@@ -143,29 +143,31 @@
   <li>Dashboard risultati e grafici</li>
   <li>Gamification (badge, progress bar, ranking)</li>
 </ol>
+</section>
 <hr>
 
 <section id="requisiti-non-funzionali">
   <h3>Requisiti Non Funzionali</h3>
-  <ul>
+  <ol>
     <li>Interfaccia semplice, chiara e intuitiva per utenti di qualsiasi livello</li>
     <li>Tempi di risposta rapidi e disponibilità continua</li>
     <li>Compatibilità multipiattaforma: Web, iOS, Android</li>
     <li>Scalabilità modulare e facilità di manutenzione</li>
     <li>Nessuna pubblicità</li>
     <li>Sicurezza e privacy conformi a GDPR</li>
-  </ul>
+  </ol>
 </section>
+<hr>
 
 <section id="requisiti-dominio">
   <h3>Requisiti di Dominio</h3>
-  <ul>
+  <ol>
     <li>Tutti i contenuti video e piani sono protetti da copyright</li>
     <li>Gestione abbonamenti e pagamenti sicuri tramite Stripe</li>
     <li>Integrazione con dispositivi fitness: Apple Health, Google Fit, Garmin</li>
     <li>Protezione dei contenuti tramite DRM e watermark dinamici</li>
     <li>Conformità alle norme di privacy e agli standard di accessibilità (WCAG)</li>
-  </ul>
+  </ol>
 </section>
 <h2>📊 UML Use Case</h2>
 <img width="957" height="913" alt="Immagine 2025-11-21 095108" src="https://github.com/user-attachments/assets/4ef75a57-cafb-4c9d-8296-2e7408e56635" />
