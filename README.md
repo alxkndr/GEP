@@ -1,12 +1,20 @@
 <h1>🏋️‍♂️ BeastMode Web/App</h1>
 
 <p><strong>Autore:</strong> Alessandro Longo</p>
-<p><strong>Concept:</strong> Piattaforma digitale (Web + App) che offre <em>schede di allenamento personalizzate</em> e <em>piani alimentari su misura</em>, integrati con <strong>video-esecuzioni, supporto da coach e monitoraggio progressi</strong>. Include anche <em>contenuti video marketing</em> per promuovere il brand e la community.</p>
+<p><strong>Descrizione:</strong> Piattaforma digitale (Web + App) che offre <em>schede di allenamento personalizzate</em> e <em>piani alimentari su misura</em>, integrati con <strong>video-esecuzioni, supporto da coach e monitoraggio progressi</strong>. Include anche <em>contenuti video marketing</em> per promuovere il brand e la community.</p>
 
 <hr>
 
 <h2>🎯 Missione</h2>
-<p><em>“Sapere come comportarsi per ottenere i massimi risultati è spesso complesso. Con questa Web/App è tutto più semplice.”</em></p>
+<p><em>“BeastMode nasce per trasformare il modo in cui le persone si allenano.
+Non è solo un’app di fitness, ma un ecosistema digitale che unisce allenamento personalizzato, nutrizione su misura e supporto umano in un’unica esperienza semplice, misurabile e motivante.
+
+Crediamo che i risultati non debbano essere casuali.
+Con la giusta guida, i dati giusti e il supporto giusto, ogni persona può costruire la propria evoluzione fisica in modo consapevole e strutturato.
+
+BeastMode elimina confusione, stagnazione e programmi generici, offrendo un percorso chiaro, adattivo e costruito attorno all’individuo.
+
+Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibile per tutti.”</em></p>
 
 <hr>
 
