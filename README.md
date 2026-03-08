@@ -200,7 +200,7 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
   </ol>
 </section>
 <h2>📊 UML Use Case</h2>
-<img width="957" height="913" alt="Immagine 2025-11-21 095108" src="https://github.com/user-attachments/assets/4ef75a57-cafb-4c9d-8296-2e7408e56635" />
+[<img width="957" height="913" alt="Immagine 2025-11-21 095108" src="https://github.com/user-attachments/assets/4ef75a57-cafb-4c9d-8296-2e7408e56635" />](https://yuml.me/a16e3065.svg)
 
 <section id="intro">
   <p>Scopri <strong>BeastMode</strong>, la piattaforma digitale che unisce allenamenti personalizzati, piani nutrizionali e supporto dei coach in un’unica Web/App.</p>
