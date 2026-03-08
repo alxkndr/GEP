@@ -263,7 +263,7 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
     <li>Freemium, ma spingeremo a scegliere Hyper per stravolgere la propria condizione</li>
   </ul>
 
-  <h4>Utilizzo del prestito richiesto (125.000 €)</h4>
+  <h4>Utilizzo del prestito richiesto (105.000 €)</h4>
   <ul>
     <li>Sviluppo Web/App e MVP</li>
     <li>Produzione contenuti video</li>
