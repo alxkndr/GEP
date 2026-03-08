@@ -200,7 +200,8 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
   </ol>
 </section>
 <h2>📊 UML Use Case</h2>
-![a16e3065](https://github.com/user-attachments/assets/91ec93c1-7d1c-4831-85e6-c5c03d11c3b2)
+<img width="450" height="2208" alt="a16e3065" src="https://github.com/user-attachments/assets/4bd3f030-3821-44c2-b1d0-e4efeee64e03" />
+
 
 
 <section id="intro">
