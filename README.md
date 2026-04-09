@@ -377,7 +377,9 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
   </div>
 </section>
 <h3>WBS</h3>
+
 ```mermaid
+
 graph TD
     A["BeastMode<br/>(€100k - 6 Mesi)"]
 
@@ -428,6 +430,7 @@ graph TD
 <h3>GANTT</h3>
 
 ```mermaid
+
 gantt
     title BeastMode - Roadmap Web/App 3 Mesi (Stato al 02-03)
     dateFormat  MM-DD
