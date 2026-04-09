@@ -376,8 +376,9 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
     </a>
   </div>
 </section>
+<h3>WBS</h3>
 ```mermaid
-graph TB
+graph TD
     A["BeastMode<br/>(€100k - 6 Mesi)"]
 
     A --> B["Pianificazione & PM<br/>(€5k - 3 sett.)"]
@@ -424,6 +425,7 @@ graph TB
     J --> J1["Aggiornamenti Software<br/>(€3k - 2 sett.)"]
     J --> J2["Monitoraggio Performance<br/>(€2k - 2 sett.)"]
 ```
+<h3>GANTT</h3>
 ```mermaid
 gantt
     title BeastMode - Roadmap Web/App 3 Mesi (Stato al 02-03)
