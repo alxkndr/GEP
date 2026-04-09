@@ -426,6 +426,7 @@ graph TD
     J --> J2["Monitoraggio Performance<br/>(€2k - 2 sett.)"]
 ```
 <h3>GANTT</h3>
+
 ```mermaid
 gantt
     title BeastMode - Roadmap Web/App 3 Mesi (Stato al 02-03)
