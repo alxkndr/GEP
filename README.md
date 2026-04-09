@@ -54,7 +54,7 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
     <tr><td>Monitoraggio progressi</td><td>🔥 High</td><td>🟢 Grafici e metriche corpo/forza</td><td>🟢 Presente</td><td>🟢 Presente</td><td>🔴 Assente</td></tr>
     <tr><td>Marketing e community video</td><td>🟡 Moderate</td><td>🟢 Contenuti motivazionali editati</td><td>🔴 Non previsti</td><td>🔴 Non previsti</td><td>🔴 Non previsti</td></tr>
     <tr><td>Prezzo accessibile</td><td>🔥 High</td><td>🟢 Abbonamento flessibile</td><td>🟠 Medio</td><td>🟠 Medio</td><td>🟢 Gratis ma limitato</td></tr>
-    <tr><td>Nessuna pubblicità</td><td>🔥 High</td><td>🟢 Nessuna</td><td>🟢 Nessuna</td><td>🟢 Nessuna</td><td>🟠 Possibile</td></tr>
+    <tr><td>Nessuna pubblicità</td><td>🟡 Moderate</td><td>🟠 Parziali</td><td>🟢 Nessuna</td><td>🟢 Nessuna</td><td>🟠 Possibile</td></tr>
   </tbody>
 </table>
 
@@ -313,7 +313,7 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
       <tr><td>Progressi tracciati</td><td>✅ Grafici e metriche</td><td>✅</td><td>✅</td><td>❌</td></tr>
       <tr><td>Community e contenuti</td><td>✅ Motivazionali</td><td>❌</td><td>❌</td><td>❌</td></tr>
       <tr><td>Prezzo</td><td>✅ Abbonamento flessibile</td><td>Medio</td><td>Medio</td><td>Limitato</td></tr>
-      <tr><td>Nessuna pubblicità</td><td>✅</td><td>✅</td><td>✅</td><td>Possibile</td></tr>
+      <tr><td>Nessuna pubblicità</td><td>❌Parziali</td><td>✅</td><td>✅</td><td>Possibile</td></tr>
     </tbody>
   </table>
 </section>
@@ -377,55 +377,59 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
   </div>
 </section>
 
-
-# BeastMode Web/App - Work Breakdown Structure (WBS)
-
 ```mermaid
-graph TD
-    A["BeastMode<br/>(€100k - 6 Mesi)"] --> B["Pianificazione & PM<br/>(€5k - 3 sett.)"]
+Graph TD
+%%{init: {'theme':'default','themeVariables':{
+    'fontSize':'20px',
+    'nodeSpacing':70,
+    'rankSpacing':90
+}}}%%
+graph TB
+    A["🔥 BeastMode<br/><b>(€100k - 6 Mesi)</b>"]
+
+    A --> B["Pianificazione & PM<br/>(€5k - 3 sett.)"]
+    B --> B1["Requisiti"]
+    B --> B2["Competitor"]
+    B --> B3["MVP"]
+    B --> B4["Planning"]
+
     A --> C["Design UI/UX<br/>(€10k - 4 sett.)"]
+    C --> C1["Wireframe"]
+    C --> C2["Mockup"]
+    C --> C3["Testing"]
+
     A --> D["Sviluppo Frontend<br/>(€25k - 8 sett.)"]
+    D --> D1["Web Next.js"]
+    D --> D2["Mobile App"]
+
     A --> E["Sviluppo Backend<br/>(€20k - 8 sett.)"]
+    E --> E1["API"]
+    E --> E2["Database"]
+    E --> E3["ML"]
+    E --> E4["Security"]
+
     A --> F["Contenuti & Video<br/>(€15k - 6 sett.)"]
-    A --> G["Integrazione Coach & ML<br/>(€5k - 3 sett.)"]
+    F --> F1["Video"]
+    F --> F2["Diete"]
+    F --> F3["Workout"]
+
+    A --> G["Coach & ML<br/>(€5k - 3 sett.)"]
+    G --> G1["Chat Coach"]
+    G --> G2["Dashboard"]
+
     A --> H["Testing & QA<br/>(€5k - 3 sett.)"]
+    H --> H1["Bug Fix"]
+    H --> H2["User Test"]
+
     A --> I["Marketing & Lancio<br/>(€10k - 4 sett.)"]
+    I --> I1["Social"]
+    I --> I2["Influencer"]
+    I --> I3["Landing"]
+
     A --> J["Supporto & Manutenzione<br/>(€5k - 4 sett.)"]
-
-    B --> B1["Definizione Requisiti<br/>(€1k - 1 sett.)"]
-    B --> B2["Analisi Competitor<br/>(€1k - 1 sett.)"]
-    B --> B3["Definizione MVP<br/>(€2k - 1 sett.)"]
-    B --> B4["WBS & Pianificazione<br/>(€1k - 1 sett.)"]
-
-    C --> C1["Wireframe & Prototipi<br/>(€3k - 1 sett.)"]
-    C --> C2["Mockup ad Alta Fedeltà<br/>(€4k - 2 sett.)"]
-    C --> C3["User Testing<br/>(€3k - 1 sett.)"]
-
-    D --> D1["Web Responsive Next.js<br/>(€10k - 4 sett.)"]
-    D --> D2["App Mobile iOS/Android<br/>(€15k - 4 sett.)"]
-
-    E --> E1["API REST & WebSocket<br/>(€5k - 2 sett.)"]
-    E --> E2["Database PostgreSQL + Redis<br/>(€5k - 2 sett.)"]
-    E --> E3["Integrazione ML TensorFlow/PyTorch<br/>(€5k - 2 sett.)"]
-    E --> E4["Sicurezza & Autenticazione<br/>(€5k - 2 sett.)"]
-
-    F --> F1["Video Tutorial Esercizi<br/>(€7k - 3 sett.)"]
-    F --> F2["Piani Alimentari Personalizzati<br/>(€5k - 2 sett.)"]
-    F --> F3["Schede Allenamento<br/>(€3k - 1 sett.)"]
-
-    G --> G1["Chat & Feedback Coach<br/>(€3k - 2 sett.)"]
-    G --> G2["Dashboard Progressi & Grafici<br/>(€2k - 1 sett.)"]
-
-    H --> H1["Bug Fixing<br/>(€2k - 1 sett.)"]
-    H --> H2["Test Utente<br/>(€3k - 2 sett.)"]
-
-    I --> I1["Campagne Social<br/>(€5k - 2 sett.)"]
-    I --> I2["Influencer & Community<br/>(€3k - 1 sett.)"]
-    I --> I3["Landing Page & Assets<br/>(€2k - 1 sett.)"]
-
-    J --> J1["Aggiornamenti Software<br/>(€3k - 2 sett.)"]
-    J --> J2["Monitoraggio Performance<br/>(€2k - 2 sett.)"]
-```
+    J --> J1["Update"]
+    J --> J2["Monitoring"]
+    ```
 ```mermaid
 gantt
     title BeastMode - Roadmap Web/App 3 Mesi (Stato al 02-03)
