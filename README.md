@@ -378,7 +378,6 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
 </section>
 
 ```mermaid
-Graph TD
 %%{init: {'theme':'default','themeVariables':{
     'fontSize':'20px',
     'nodeSpacing':70,
