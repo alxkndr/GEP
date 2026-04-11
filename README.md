@@ -360,7 +360,8 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
       Abbiamo già progettato l’infrastruttura tecnologica con dashboard interattive, tracking dei progressi e integrazione con dispositivi fitness. I pagamenti e gli abbonamenti sono sicuri e senza pubblicità.
     </p>
     <p class="mb-6 text-lg text-gray-700 dark:text-gray-300">
-      Oggi cerchiamo un investimento iniziale di <strong>35.000€</strong> per completare lo sviluppo del MVP, Frontend Backend dell'app, produrre contenuti video, integrare i coach e lanciare il progetto sul mercato.  Crediamo in una sua decisione finale positiva per rivoluzionare con noi il modo in cui le persone si allenano!
+      Oggi cerchiamo un investimento iniziale di <strong>35.000€</strong> per completare lo sviluppo del MVP, Frontend Backend dell'app, produrre contenuti video, integrare i coach e lanciare il progetto sul mercato. Il         breakeven point è previsto entro i primi 3 mesi, in quanto se 36 clienti comprano a 970€ → 35.000€, 52 clienti da 670€ → 35.000€, 95 clienti da 370€ → 35.000€ lo raggiungiamo facile facile, e anzi lo superiamo easy.
+      Crediamo in una sua decisione finale positiva per rivoluzionare con noi il modo in cui le persone si allenano, siamo disposti a farlo diventare socio per il 10% della nostra azienda, che vale 350k.
     </p>
   </div>
 </section>
