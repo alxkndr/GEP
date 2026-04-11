@@ -53,7 +53,7 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
     <tr><td>Interazione con coach</td><td>🔥 High</td><td>🟢 Chat e feedback diretti</td><td>🔴 Nessuna</td><td>🟠 Solo community</td><td>🔴 Assente</td></tr>
     <tr><td>Monitoraggio progressi</td><td>🔥 High</td><td>🟢 Grafici e metriche corpo/forza</td><td>🟢 Presente</td><td>🟢 Presente</td><td>🔴 Assente</td></tr>
     <tr><td>Marketing e community video</td><td>🟡 Moderate</td><td>🟢 Contenuti motivazionali editati</td><td>🔴 Non previsti</td><td>🔴 Non previsti</td><td>🔴 Non previsti</td></tr>
-    <tr><td>Prezzo accessibile</td><td>🔥 High</td><td>🟠 Abbonamento costoso</td><td>🟠 Medio</td><td>🟠 Medio</td><td>🟢 Gratis ma limitato</td></tr>
+    <tr><td>Prezzo accessibile</td><td>🔥 High</td><td>🟠 Abbonamento mediamente accessibile</td><td>🟠 Medio</td><td>🟠 Medio</td><td>🟢 Gratis ma limitato</td></tr>
     <tr><td>Nessuna pubblicità</td><td>🔥 High</td><td>🟢 Nessuna</td><td>🟢 Nessuna</td><td>🟢 Nessuna</td><td>🟠 Possibile</td></tr>
   </tbody>
 </table>
