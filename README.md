@@ -1,7 +1,7 @@
 <h1>🏋️‍♂️ BeastMode Web/App</h1>
 
 <p><strong>Autore:</strong> Alessandro Longo</p>
-<p><strong>Descrizione:</strong> Piattaforma digitale (Web + App) che offre <em>schede di allenamento personalizzate</em> e <em>piani alimentari su misura</em>, integrati con <strong>video-esecuzioni, supporto da coach e monitoraggio progressi</strong>. Include anche <em>contenuti video marketing</em> per promuovere il brand e la community.</p>
+<p><strong>Descrizione:</strong> Piattaforma digitale (Web + App) che offre <em>schede di allenamento personalizzate</em> e <em>piani alimentari su misura</em>, integrati con <strong>video-esecuzioni, supporto da coach e monitoraggio progressi</strong>. Include anche <em>contenuti video marketing</em> per promuovere il brand e la community. Infatti non ci accontentiamo di essere un'alternativa tra le tante, abbiamo proprio studiato come diventare il miglior punto di riferimento per il fitness vincendo soprattutto sugli aspetti che i rivali tralasciano, senza accorgersi che sono quelli che fanno veramente la differenza</p>
 
 <hr>
 
@@ -12,9 +12,9 @@ Non è solo un’app di fitness, ma un ecosistema digitale che unisce allenament
 Crediamo che i risultati non debbano essere casuali.
 Con la giusta guida, i dati giusti e il supporto giusto, ogni persona può costruire la propria evoluzione fisica in modo consapevole e strutturato.
 
-BeastMode elimina confusione, stagnazione e programmi generici, offrendo un percorso chiaro, adattivo e costruito attorno all’individuo.
+BeastMode elimina confusione, stagnazione e programmi generici, offrendo un percorso chiaro, adattivo e costruito attorno all’individuo, come diciamo noi "super personalizzato".
 
-Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibile per tutti.</em></p>
+Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibile per tutti. Puntiamo ad acchiappare l'attenzione di persone di questa nicchia, perchè chi non sa gestire la disciplina e la costanza rischia di buttare i propri soldi e i risultati, lasciando una recensione negativa.</em></p>
 
 <hr>
 
@@ -27,13 +27,13 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
 <ul>
   <li>Uomini e donne (18–60 anni) che frequentano la palestra o si allenano da soli</li>
   <li>Livelli: principianti, intermedi, avanzati</li>
-  <li>Obiettivi: dimagrimento, forza, definizione, massa, ricomposizione corporea</li>
-  <li>Persone che vogliono <strong>vedere progressi concreti</strong> e <strong>imparare la corretta esecuzione</strong></li>
+  <li>Obiettivi: definizione e forza, massa e forza, ricomposizione corporea</li>
+  <li>Persone che vogliono <strong>vedere progressi concreti</strong> e <strong>imparare la corretta esecuzione delle abitudini capaci di cambiare il proprio corpo</strong></li>
 </ul>
 
 <hr>
 
-<h2>⚔️ Competitors</h2>
+<h2>⚔️ Competitors (alcuni) </h2>
 
 <table>
   <thead>
@@ -43,7 +43,7 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
       <th>💪 BeastMode</th>
       <th>🟠 FitBod</th>
       <th>🔵 Tracked</th>
-      <th>🔴 BitDifferent</th>
+      <th>🔴 BltDifferent</th>
     </tr>
   </thead>
   <tbody>
@@ -53,15 +53,15 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
     <tr><td>Interazione con coach</td><td>🔥 High</td><td>🟢 Chat e feedback diretti</td><td>🔴 Nessuna</td><td>🟠 Solo community</td><td>🔴 Assente</td></tr>
     <tr><td>Monitoraggio progressi</td><td>🔥 High</td><td>🟢 Grafici e metriche corpo/forza</td><td>🟢 Presente</td><td>🟢 Presente</td><td>🔴 Assente</td></tr>
     <tr><td>Marketing e community video</td><td>🟡 Moderate</td><td>🟢 Contenuti motivazionali editati</td><td>🔴 Non previsti</td><td>🔴 Non previsti</td><td>🔴 Non previsti</td></tr>
-    <tr><td>Prezzo accessibile</td><td>🔥 High</td><td>🟢 Abbonamento flessibile</td><td>🟠 Medio</td><td>🟠 Medio</td><td>🟢 Gratis ma limitato</td></tr>
-    <tr><td>Nessuna pubblicità</td><td>🟡 Moderate</td><td>🟠 Parziali</td><td>🟢 Nessuna</td><td>🟢 Nessuna</td><td>🟠 Possibile</td></tr>
+    <tr><td>Prezzo accessibile</td><td>🔥 High</td><td>🟠 Abbonamento costoso</td><td>🟠 Medio</td><td>🟠 Medio</td><td>🟢 Gratis ma limitato</td></tr>
+    <tr><td>Nessuna pubblicità</td><td>🔥 High</td><td>🟢 Nessuna</td><td>🟢 Nessuna</td><td>🟢 Nessuna</td><td>🟠 Possibile</td></tr>
   </tbody>
 </table>
 
 <hr>
 
 <h2>🧠 Tagline</h2>
-<p><em>“Il tuo corpo. Il tuo percorso. La tua guida digitale verso il risultato.”</em></p>
+<p><em>“Il tuo corpo. Il tuo percorso. La tua guida digitale verso il risultato vero.”</em></p>
 
 <hr>
 
@@ -145,7 +145,7 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
   
   <p>È possibile ricevere feedback diretto dai coach tramite chat interna e interagire con la community per supporto e motivazione, incluse funzionalità di gamification come badge, ranking e progress bar (<strong>funzionale</strong>).</p>
   
-  <p>Il sistema gestisce abbonamenti e pagamenti sicuri tramite <strong>Stripe</strong>, consentendo l’accesso a contenuti Premium e Coach+ solo dopo la validazione della transazione (<strong>funzionale</strong>).</p>
+  <p>Il sistema gestisce abbonamenti e pagamenti sicuri tramite <strong>Stripe</strong>, consentendo l’accesso ai contenuti di Hyper* solo dopo la validazione della transazione (<strong>funzionale</strong>).</p>
   
   <p>Gli amministratori accedono con login privilegiato per gestire contenuti, schede di allenamento, piani nutrizionali e video tutorial, garantendo l’accuratezza dei contenuti e la verifica dei diritti editoriali tramite l’attore esterno <strong>Editore</strong> (<strong>funzionale</strong>).</p>
   
@@ -252,22 +252,22 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
 <section id="business-model">
   <h3>Slide 4: Business Model</h3>
 
-  <h4>Modello Freemium con abbonamento hyper</h4>
+  <h4>Modello Freemium con abbonamento HYPER per chi vuole il meglio del meglio della personalizzazione massima</h4>
   <ul>
     <li>Accesso gratuito alle funzionalità base</li>
-    <li>Upgrade al piano hyper</li>
-    <li>Monetizzazione tramite abbonamenti annuali, in futuro forse aggiungeremo mensili (3, 6 mesi)</li>
+    <li>Upgrade al piano Hyper</li>
+    <li>Monetizzazione tramite abbonamenti annuali e mensili</li>
     <li>Nessuna pubblicità</li>
   </ul>
 
   <h4>Ricavi principali</h4>
   <ul>
-    <li>Freemium, ma spingeremo a scegliere Hyper per stravolgere la propria condizione</li>
+    <li>Freemium, ma spingeremo a scegliere Hyper 3/6/12 mesi per stravolgere la propria condizione</li>
   </ul>
 
-  <h4>Utilizzo del prestito richiesto (100.000 €)</h4>
+  <h4>Utilizzo del prestito richiesto (35.000 €)</h4>
   <ul>
-    <li>Sviluppo Web/App e MVP</li>
+    <li>Sviluppo Web/App e MVP, Frontend Backend, DB</li>
     <li>Produzione contenuti video</li>
     <li>Integrazione con coach e strumenti di monitoraggio</li>
     <li>Marketing iniziale e acquisizione utenti</li>
@@ -321,7 +321,7 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
 <section id="vantaggi">
   <h3>Slide 8: Perché BeastMode è migliore</h3>
   <ul>
-    <li>Personalizzazione reale grazie al Machine Learning</li>
+    <li>Personalizzazione REALE E VERA ma non vogliamo mandare frecciatine a nessuno</li>
     <li>Allenamento + nutrizione + coaching in un’unica app</li>
     <li>Progressi chiari, misurabili e motivanti</li>
     <li>Community e contenuti video per engagement</li>
@@ -338,21 +338,12 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
   </ul>
 </section>
 
-<section id="team">
-  <h3>Slide 10: Team Fondatore</h3>
-  <ul>
-    <li>Alessandro Longo – Founder & CEO (Visione e strategia)</li>
-    <li>[CTO] – Sviluppo Web/App e integrazione ML</li>
-    <li>[Marketing Lead] – Growth, community e social media</li>
-  </ul>
-</section>
-
 <section id="milestones">
-  <h3>Slide 11: Milestones & Prestito Richiesto</h3>
+  <h3>Slide 10: Milestones & Prestito Richiesto</h3>
   <ul>
     <li>Obiettivo primi 6 mesi: sviluppare MVP e testare il progetto con i primi utenti</li>
-    <li>Target 6 mesi: 1.000+ utenti attivi e completamento dello sviluppo</li>
-    <li>Prestito richiesto: 100.000 € per sviluppo, contenuti, integrazione coach e marketing iniziale</li>
+    <li>Target 6 mesi: 1.000+ utenti abbonati HYPER 3/6/12m e completamento dello sviluppo</li>
+    <li>Prestito richiesto: 35.000€ per sviluppo, contenuti, integrazione coach e marketing iniziale</li>
   </ul>
 </section>
 
@@ -363,17 +354,14 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
       Ciao, sono <strong>Alessandro Longo</strong>, fondatore di <strong>BeastMode</strong>. Sapete che la mancanza di guida personalizzata e motivazione è la principale barriera che frena molte persone nei loro obiettivi di fitness? Abbiamo creato BeastMode per abbattere questa barriera.
     </p>
     <p class="mb-4 text-lg text-gray-700 dark:text-gray-300">
-      BeastMode è una piattaforma digitale che integra allenamenti personalizzati, piani nutrizionali su misura, video tutorial dettagliati e supporto diretto dei coach. A differenza delle app generiche, con noi hai programmi su misura, progressi misurabili e motivazione costante.
+      BeastMode è una piattaforma digitale che integra allenamenti personalizzati in modo reale e scientifico, massimizzando i risultati in maniera impeccabile a differenza degli altri rivali, piani nutrizionali su misura, video tutorial dettagliati e supporto diretto dei coach. A differenza delle app generiche, con noi hai programmi su misura, progressi misurabili e motivazione costante.
     </p>
     <p class="mb-4 text-lg text-gray-700 dark:text-gray-300">
       Abbiamo già progettato l’infrastruttura tecnologica con dashboard interattive, tracking dei progressi e integrazione con dispositivi fitness. I pagamenti e gli abbonamenti sono sicuri e senza pubblicità.
     </p>
     <p class="mb-6 text-lg text-gray-700 dark:text-gray-300">
-      Oggi cerchiamo un investimento iniziale di <strong>100.000€</strong> per completare lo sviluppo del MVP, produrre contenuti video, integrare i coach e lanciare il progetto sul mercato. Siete pronti a rivoluzionare con noi il modo in cui le persone si allenano?
+      Oggi cerchiamo un investimento iniziale di <strong>35.000€</strong> per completare lo sviluppo del MVP, Frontend Backend dell'app, produrre contenuti video, integrare i coach e lanciare il progetto sul mercato.  Crediamo in una sua decisione finale positiva per rivoluzionare con noi il modo in cui le persone si allenano!
     </p>
-    <a href="#contact" class="inline-block px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg shadow hover:bg-blue-700 transition">
-      Unisciti a noi
-    </a>
   </div>
 </section>
 <h3>WBS</h3>
@@ -381,51 +369,51 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
 ```mermaid
 
 graph TD
-    A["BeastMode<br/>(€100k - 6 Mesi)"]
+    A["BeastMode<br/>(€35k - 6 Mesi)"]
 
-    A --> B["Pianificazione & PM<br/>(€5k - 3 sett.)"]
-    A --> C["Design UI/UX<br/>(€10k - 4 sett.)"]
-    A --> D["Sviluppo Frontend<br/>(€25k - 8 sett.)"]
-    A --> E["Sviluppo Backend<br/>(€20k - 8 sett.)"]
-    A --> F["Contenuti & Video<br/>(€15k - 6 sett.)"]
-    A --> G["Integrazione Coach & ML<br/>(€5k - 3 sett.)"]
-    A --> H["Testing & QA<br/>(€5k - 3 sett.)"]
-    A --> I["Marketing & Lancio<br/>(€10k - 4 sett.)"]
-    A --> J["Supporto & Manutenzione<br/>(€5k - 4 sett.)"]
+    A --> B["Pianificazione & PM<br/>(€1.7k - 3 sett.)"]
+    A --> C["Design UI/UX<br/>(€3.3k - 4 sett.)"]
+    A --> D["Sviluppo Frontend<br/>(€8.3k - 8 sett.)"]
+    A --> E["Sviluppo Backend<br/>(€6.7k - 8 sett.)"]
+    A --> F["Contenuti & Video<br/>(€5k - 6 sett.)"]
+    A --> G["Integrazione Coach & ML<br/>(€1.7k - 3 sett.)"]
+    A --> H["Testing & QA<br/>(€1.7k - 3 sett.)"]
+    A --> I["Marketing & Lancio<br/>(€3.3k - 4 sett.)"]
+    A --> J["Supporto & Manutenzione<br/>(€1.7k - 4 sett.)"]
 
-    B --> B1["Definizione Requisiti<br/>(€1k - 1 sett.)"]
-    B --> B2["Analisi Competitor<br/>(€1k - 1 sett.)"]
-    B --> B3["Definizione MVP<br/>(€2k - 1 sett.)"]
-    B --> B4["WBS & Pianificazione<br/>(€1k - 1 sett.)"]
+    B --> B1["Definizione Requisiti<br/>(€0.3k - 1 sett.)"]
+    B --> B2["Analisi Competitor<br/>(€0.3k - 1 sett.)"]
+    B --> B3["Definizione MVP<br/>(€0.7k - 1 sett.)"]
+    B --> B4["WBS & Pianificazione<br/>(€0.4k - 1 sett.)"]
 
-    C --> C1["Wireframe & Prototipi<br/>(€3k - 1 sett.)"]
-    C --> C2["Mockup ad Alta Fedeltà<br/>(€4k - 2 sett.)"]
-    C --> C3["User Testing<br/>(€3k - 1 sett.)"]
+    C --> C1["Wireframe & Prototipi<br/>(€1k - 1 sett.)"]
+    C --> C2["Mockup ad Alta Fedeltà<br/>(€1.3k - 2 sett.)"]
+    C --> C3["User Testing<br/>(€1k - 1 sett.)"]
 
-    D --> D1["Web Responsive Next.js<br/>(€10k - 4 sett.)"]
-    D --> D2["App Mobile iOS/Android<br/>(€15k - 4 sett.)"]
+    D --> D1["Web Responsive Next.js<br/>(€3.3k - 4 sett.)"]
+    D --> D2["App Mobile iOS/Android<br/>(€5k - 4 sett.)"]
 
-    E --> E1["API REST & WebSocket<br/>(€5k - 2 sett.)"]
-    E --> E2["Database PostgreSQL + Redis<br/>(€5k - 2 sett.)"]
-    E --> E3["Integrazione ML TensorFlow/PyTorch<br/>(€5k - 2 sett.)"]
-    E --> E4["Sicurezza & Autenticazione<br/>(€5k - 2 sett.)"]
+    E --> E1["API REST & WebSocket<br/>(€1.7k - 2 sett.)"]
+    E --> E2["Database PostgreSQL + Redis<br/>(€1.7k - 2 sett.)"]
+    E --> E3["Integrazione ML TensorFlow/PyTorch<br/>(€1.7k - 2 sett.)"]
+    E --> E4["Sicurezza & Autenticazione<br/>(€1.7k - 2 sett.)"]
 
-    F --> F1["Video Tutorial Esercizi<br/>(€7k - 3 sett.)"]
-    F --> F2["Piani Alimentari Personalizzati<br/>(€5k - 2 sett.)"]
-    F --> F3["Schede Allenamento<br/>(€3k - 1 sett.)"]
+    F --> F1["Video Tutorial Esercizi<br/>(€2.3k - 3 sett.)"]
+    F --> F2["Piani Alimentari Personalizzati<br/>(€1.7k - 2 sett.)"]
+    F --> F3["Schede Allenamento<br/>(€1k - 1 sett.)"]
 
-    G --> G1["Chat & Feedback Coach<br/>(€3k - 2 sett.)"]
-    G --> G2["Dashboard Progressi & Grafici<br/>(€2k - 1 sett.)"]
+    G --> G1["Chat & Feedback Coach<br/>(€1k - 2 sett.)"]
+    G --> G2["Dashboard Progressi & Grafici<br/>(€0.7k - 1 sett.)"]
 
-    H --> H1["Bug Fixing<br/>(€2k - 1 sett.)"]
-    H --> H2["Test Utente<br/>(€3k - 2 sett.)"]
+    H --> H1["Bug Fixing<br/>(€0.7k - 1 sett.)"]
+    H --> H2["Test Utente<br/>(€1k - 2 sett.)"]
 
-    I --> I1["Campagne Social<br/>(€5k - 2 sett.)"]
-    I --> I2["Influencer & Community<br/>(€3k - 1 sett.)"]
-    I --> I3["Landing Page & Assets<br/>(€2k - 1 sett.)"]
+    I --> I1["Campagne Social<br/>(€1.7k - 2 sett.)"]
+    I --> I2["Influencer & Community<br/>(€1k - 1 sett.)"]
+    I --> I3["Landing Page & Assets<br/>(€0.6k - 1 sett.)"]
 
-    J --> J1["Aggiornamenti Software<br/>(€3k - 2 sett.)"]
-    J --> J2["Monitoraggio Performance<br/>(€2k - 2 sett.)"]
+    J --> J1["Aggiornamenti Software<br/>(€1k - 2 sett.)"]
+    J --> J2["Monitoraggio Performance<br/>(€0.7k - 2 sett.)"]
 ```
 <h3>GANTT</h3>
 
