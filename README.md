@@ -49,8 +49,8 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
   <tbody>
     <tr><td>Schede personalizzate basate su obiettivi e livello</td><td>🔥 High</td><td>🟢 Complete e adattive</td><td>🟢 Buone ma standard</td><td>🟠 Parziali</td><td>🔴 Non dinamiche</td></tr>
     <tr><td>Piano alimentare integrato</td><td>🔥 High</td><td>🟢 Personalizzato e sincronizzato ai progressi</td><td>🔴 Assente</td><td>🟠 Solo consigli base</td><td>🔴 Non previsto</td></tr>
-    <tr><td>Video-esecuzioni esercizi</td><td>🔥 High</td><td>🟢 Completi e didattici</td><td>🟠 Limitati</td><td>🟠 Parziali</td><td>🔴 Assenti</td></tr>
-    <tr><td>Interazione con coach</td><td>🔥 High</td><td>🟢 Chat e feedback diretti</td><td>🔴 Nessuna</td><td>🟠 Solo community</td><td>🔴 Assente</td></tr>
+    <tr><td>Video-esecuzioni esercizi</td><td>🔥 High</td><td>🟢 Completi e didattici e impeccabili</td><td>🟠 Limitati</td><td>🟠 Parziali</td><td>🔴 Assenti</td></tr>
+    <tr><td>Interazione con coach</td><td>🔥 High</td><td>🟢 Chat, Check e feedback diretti</td><td>🔴 Nessuna</td><td>🟠 Solo community</td><td>🔴 Assente</td></tr>
     <tr><td>Monitoraggio progressi</td><td>🔥 High</td><td>🟢 Grafici e metriche corpo/forza</td><td>🟢 Presente</td><td>🟢 Presente</td><td>🔴 Assente</td></tr>
     <tr><td>Marketing e community video</td><td>🟡 Moderate</td><td>🟢 Contenuti motivazionali editati</td><td>🔴 Non previsti</td><td>🔴 Non previsti</td><td>🔴 Non previsti</td></tr>
     <tr><td>Prezzo accessibile</td><td>🔥 High</td><td>🟠 Abbonamento mediamente accessibile</td><td>🟠 Medio</td><td>🟠 Medio</td><td>🟢 Gratis ma limitato</td></tr>
