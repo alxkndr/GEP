@@ -53,7 +53,7 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
     <tr><td>Interazione con coach</td><td>🔥 High</td><td>🟢 Chat, Check e feedback diretti</td><td>🔴 Nessuna</td><td>🟠 Solo community</td><td>🔴 Assente</td></tr>
     <tr><td>Monitoraggio progressi</td><td>🔥 High</td><td>🟢 Grafici e metriche corpo/forza</td><td>🟢 Presente</td><td>🟢 Presente</td><td>🔴 Assente</td></tr>
     <tr><td>Marketing e community video</td><td>🟡 Moderate</td><td>🟢 Contenuti motivazionali editati</td><td>🔴 Non previsti</td><td>🔴 Non previsti</td><td>🔴 Non previsti</td></tr>
-    <tr><td>Prezzo accessibile</td><td>🔥 High</td><td>🟠 Abbonamento mediamente accessibile</td><td>🟠 Medio</td><td>🟠 Medio</td><td>🟢 Gratis ma limitato</td></tr>
+    <tr><td>Prezzo accessibile</td><td>🔥 High</td><td>🟡 Abbonamento mediamente accessibile</td><td>🟠 Medio</td><td>🟠 Medio</td><td>🟢 Gratis ma limitato</td></tr>
     <tr><td>Nessuna pubblicità</td><td>🔥 High</td><td>🟢 Nessuna</td><td>🟢 Nessuna</td><td>🟢 Nessuna</td><td>🟠 Possibile</td></tr>
   </tbody>
 </table>
@@ -307,13 +307,13 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
     </thead>
     <tbody>
       <tr><td>Schede personalizzate</td><td>✅ Complete e adattive</td><td>Buone</td><td>Parziali</td><td>Limitate</td></tr>
-      <tr><td>Piani alimentari</td><td>✅ Personalizzati</td><td>❌</td><td>Base</td><td>❌</td></tr>
-      <tr><td>Video tutorial</td><td>✅ Completi</td><td>Limitati</td><td>Parziali</td><td>❌</td></tr>
-      <tr><td>Feedback coach</td><td>✅ Chat & supporto</td><td>❌</td><td>Solo community</td><td>❌</td></tr>
-      <tr><td>Progressi tracciati</td><td>✅ Grafici e metriche</td><td>✅</td><td>✅</td><td>❌</td></tr>
-      <tr><td>Community e contenuti</td><td>✅ Motivazionali</td><td>❌</td><td>❌</td><td>❌</td></tr>
-      <tr><td>Prezzo</td><td>✅ Abbonamento flessibile</td><td>Medio</td><td>Medio</td><td>Limitato</td></tr>
-      <tr><td>Nessuna pubblicità</td><td>❌Parziali</td><td>✅</td><td>✅</td><td>Possibile</td></tr>
+      <tr><td>Piani alimentari</td><td>✅ Personalizzati impeccabilmente</td><td>❌</td><td>Base</td><td>❌</td></tr>
+      <tr><td>Video tutorial</td><td>✅ Completissimi</td><td>Limitati</td><td>Parziali</td><td>❌</td></tr>
+      <tr><td>Feedback coach</td><td>✅ Chat & supporto costante</td><td>❌</td><td>Solo community</td><td>❌</td></tr>
+      <tr><td>Progressi tracciati</td><td>✅ Grafici e metriche peso, sollevamenti</td><td>✅</td><td>✅</td><td>❌</td></tr>
+      <tr><td>Community e contenuti</td><td>✅ Motivazionali e super utili</td><td>❌</td><td>❌</td><td>❌</td></tr>
+      <tr><td>Prezzo accessibile</td><td>🟡 Abbonamento mediamente accessibile</td><td>Medio</td><td>Medio</td><td>Limitato</td></tr>
+      <tr><td>Nessuna pubblicità</td><td>✅Nessuna!</td><td>✅</td><td>✅</td><td>Possibile</td></tr>
     </tbody>
   </table>
 </section>
