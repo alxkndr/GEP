@@ -1,20 +1,26 @@
 <h1>🏋️‍♂️ BeastMode Web/App</h1>
 
 <p><strong>Autore:</strong> Alessandro Longo</p>
-<p><strong>Descrizione:</strong> Piattaforma digitale (Web + App) che offre <em>schede di allenamento personalizzate</em> e <em>piani alimentari su misura</em>, integrati con <strong>video-esecuzioni, supporto da coach e monitoraggio progressi</strong>. Include anche <em>contenuti video marketing</em> per promuovere il brand e la community. Infatti non ci accontentiamo di essere un'alternativa tra le tante, abbiamo proprio studiato come diventare il miglior punto di riferimento per il fitness vincendo soprattutto sugli aspetti che i rivali tralasciano, senza accorgersi che sono quelli che fanno veramente la differenza</p>
+<p><strong>Descrizione:</strong> BeastMode è una piattaforma digitale (Web + App) che integra allenamento personalizzato, nutrizione su misura e supporto diretto dei coach in un’unica esperienza.
+
+Oggi milioni di persone si allenano senza una guida strutturata, ottenendo risultati limitati o incoerenti. Le soluzioni attuali sono spesso frammentate: app di allenamento, piani alimentari e coaching sono separati e poco coordinati.
+
+BeastMode risolve questo problema offrendo un ecosistema completo, in cui ogni utente segue un percorso personalizzato basato su obiettivi, dati e progressi reali. La piattaforma combina schede adattive, piani nutrizionali integrati, video tutorial e monitoraggio continuo, migliorando l’efficacia e la costanza nel tempo.
+
+Il modello di business è basato su abbonamento freemium, con conversione a piani premium che includono personalizzazione avanzata e supporto diretto dei coach.
+
+L’obiettivo è validare il prodotto con un MVP e raggiungere il break-even nei primi mesi attraverso una crescita progressiva della base utenti paganti.</p>
 
 <hr>
 
 <h2>🎯 Missione</h2>
-<p><em>BeastMode nasce per trasformare il modo in cui le persone si allenano.
-Non è solo un’app di fitness, ma un ecosistema digitale che unisce allenamento personalizzato, nutrizione su misura e supporto umano in un’unica esperienza semplice, misurabile e motivante.
+<p><em>BeastMode nasce per migliorare il modo in cui le persone si allenano, offrendo un’esperienza digitale strutturata, personalizzata e misurabile.
 
-Crediamo che i risultati non debbano essere casuali.
-Con la giusta guida, i dati giusti e il supporto giusto, ogni persona può costruire la propria evoluzione fisica in modo consapevole e strutturato.
+L’obiettivo è eliminare l’approccio casuale al fitness, sostituendolo con percorsi guidati basati su dati, progressi e supporto continuo.
 
-BeastMode elimina confusione, stagnazione e programmi generici, offrendo un percorso chiaro, adattivo e costruito attorno all’individuo, come diciamo noi "super personalizzato".
+La piattaforma integra allenamento, nutrizione e coaching in un unico sistema, rendendo il miglioramento fisico più chiaro, sostenibile e accessibile.
 
-Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibile per tutti. Puntiamo ad acchiappare l'attenzione di persone di questa nicchia, perchè chi non sa gestire la disciplina e la costanza rischia di buttare i propri soldi e i risultati, lasciando una recensione negativa.</em></p>
+BeastMode punta a diventare un punto di riferimento nel fitness digitale grazie a un approccio centrato sull’utente e orientato ai risultati concreti.</em></p>
 
 <hr>
 
@@ -252,26 +258,35 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
 <section id="business-model">
   <h3>Slide 4: Business Model</h3>
 
-  <h4>Modello Freemium con abbonamento HYPER per chi vuole il meglio del meglio della personalizzazione massima</h4>
+  <p>
+    Il modello di business di BeastMode è basato su una strategia <strong>freemium</strong>, che consente agli utenti di accedere gratuitamente alle funzionalità base e di effettuare l’upgrade a piani premium per ottenere un’esperienza completa.
+  </p>
+
+  <h4>💰 Fonti di Ricavo</h4>
   <ul>
-    <li>Accesso gratuito alle funzionalità base</li>
-    <li>Upgrade al piano Hyper</li>
-    <li>Monetizzazione tramite abbonamenti annuali e mensili</li>
-    <li>Nessuna pubblicità</li>
+    <li>Abbonamenti mensili, trimestrali e annuali</li>
+    <li>Accesso a programmi personalizzati avanzati</li>
+    <li>Supporto diretto dei coach</li>
   </ul>
 
-  <h4>Ricavi principali</h4>
+  <h4>🚀 Strategia di Conversione</h4>
   <ul>
-    <li>Freemium, ma spingeremo a scegliere Hyper 3/6/12 mesi per stravolgere la propria condizione</li>
+    <li>Accesso gratuito con funzionalità limitate</li>
+    <li>Upgrade a piani premium con personalizzazione avanzata</li>
+    <li>Valore percepito basato su risultati misurabili e supporto continuo</li>
   </ul>
 
-  <h4>Utilizzo del prestito richiesto (35.000 €)</h4>
+  <h4>📊 Metriche Chiave</h4>
   <ul>
-    <li>Sviluppo Web/App e MVP, Frontend Backend, DB</li>
-    <li>Produzione contenuti video</li>
-    <li>Integrazione con coach e strumenti di monitoraggio</li>
-    <li>Marketing iniziale e acquisizione utenti</li>
+    <li>Customer Acquisition Cost (CAC)</li>
+    <li>Lifetime Value (LTV)</li>
+    <li>Tasso di conversione da free a premium</li>
+    <li>Retention e churn rate</li>
   </ul>
+
+  <p>
+    La sostenibilità del modello si basa sull’equilibrio tra il costo di acquisizione degli utenti e il valore generato nel tempo.
+  </p>
 </section>
 
 <section id="mercato">
@@ -293,8 +308,86 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
   </ul>
 </section>
 
+<section id="break-even">
+  <h3>Slide 7: Break-even Analysis</h3>
+
+  <p>
+    Il break-even point è stimato nel breve periodo sulla base di un obiettivo di fatturato pari a circa <strong>35.000€</strong>.
+  </p>
+
+  <p>
+    Il raggiungimento del pareggio può avvenire attraverso diverse combinazioni di pricing e numero di clienti:
+  </p>
+
+  <ul>
+    <li><strong>36 clienti</strong> con piano da <strong>970€</strong> → ≈ 35.000€</li>
+    <li><strong>52 clienti</strong> con piano da <strong>670€</strong> → ≈ 35.000€</li>
+    <li><strong>95 clienti</strong> con piano da <strong>370€</strong> → ≈ 35.000€</li>
+  </ul>
+
+  <p>
+    Questi scenari rappresentano ipotesi semplificate e servono a dimostrare la sostenibilità iniziale del modello.
+  </p>
+
+  <p>
+    La validazione del break-even richiederà l’analisi di variabili chiave:
+  </p>
+
+  <ul>
+    <li>Costi operativi (sviluppo, infrastruttura, contenuti)</li>
+    <li>Customer Acquisition Cost (CAC)</li>
+    <li>Tasso di conversione da free a premium</li>
+    <li>Retention e churn degli utenti</li>
+  </ul>
+
+  <p>
+    L’obiettivo è validare queste ipotesi attraverso il lancio dell’MVP e la raccolta dei primi dati reali.
+  </p>
+</section>
+
+<section id="roadmap">
+  <h3>Slide 8: Roadmap & Sviluppo (basata su Gantt)</h3>
+
+  <p>
+    Lo sviluppo di BeastMode segue una roadmap strutturata e coerente con il piano operativo definito nel Gantt, suddivisa in fasi progressive fino al lancio della beta.
+  </p>
+
+  <h4>🚀 Fase 1 – Setup & Infrastruttura (Mese 1)</h4>
+  <ul>
+    <li>Definizione contenuti e accordi editoriali</li>
+    <li>Setup cloud, CDN e infrastruttura</li>
+    <li>Implementazione autenticazione e conformità GDPR</li>
+    <li>Protezione contenuti (DRM e sicurezza)</li>
+  </ul>
+
+  <h4>⚙️ Fase 2 – Sviluppo Backend & Database (Mese 2)</h4>
+  <ul>
+    <li>Progettazione database e API REST/WebSocket</li>
+    <li>Gestione utenti, profili e sistema di chat</li>
+    <li>Integrazione pagamenti (Stripe)</li>
+  </ul>
+
+  <h4>💻 Fase 3 – Frontend & User Experience (Mese 2–3)</h4>
+  <ul>
+    <li>Design UI/UX Web e Mobile</li>
+    <li>Sviluppo applicazione Web e Mobile</li>
+    <li>Implementazione dashboard e video tutorial</li>
+  </ul>
+
+  <h4>🧪 Fase 4 – Testing & Lancio Beta (Mese 3)</h4>
+  <ul>
+    <li>Testing completo e bug fixing</li>
+    <li>Integrazione strumenti di analytics</li>
+    <li>Lancio beta con primi utenti</li>
+  </ul>
+
+  <p>
+    Dopo il rilascio della beta, il progetto entrerà in una fase di ottimizzazione e scalabilità basata sui dati raccolti, con l’obiettivo di migliorare conversione, retention e crescita utenti.
+  </p>
+</section>
+
 <section id="competitor">
-  <h3>Slide 7: Competitor</h3>
+  <h3>Slide 9: Competitor</h3>
   <table>
     <thead>
       <tr>
@@ -318,19 +411,44 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
   </table>
 </section>
 
-<section id="vantaggi">
-  <h3>Slide 8: Perché BeastMode è migliore</h3>
+<section id="vantaggio-competitivo">
+  <h3>Slide 10: Vantaggio Competitivo</h3>
+
+  <p>
+    BeastMode si differenzia nel mercato del fitness digitale grazie a un approccio integrato e orientato ai risultati, superando la frammentazione tipica delle soluzioni esistenti.
+  </p>
+
+  <h4>🎯 Integrazione Completa</h4>
   <ul>
-    <li>Personalizzazione REALE E VERA ma non vogliamo mandare frecciatine a nessuno</li>
-    <li>Allenamento + nutrizione + coaching in un’unica app</li>
-    <li>Progressi chiari, misurabili e motivanti</li>
-    <li>Community e contenuti video per engagement</li>
-    <li>Prezzo flessibile, nessuna pubblicità, adatto a tutti</li>
+    <li>Allenamento, nutrizione e supporto dei coach in un’unica piattaforma</li>
+    <li>Esperienza utente coerente e centralizzata</li>
   </ul>
+
+  <h4>📊 Personalizzazione Basata su Dati</h4>
+  <ul>
+    <li>Schede e piani adattivi in base a obiettivi, progressi e comportamento utente</li>
+    <li>Monitoraggio continuo delle performance</li>
+  </ul>
+
+  <h4>👥 Supporto Umano</h4>
+  <ul>
+    <li>Interazione diretta con coach qualificati</li>
+    <li>Feedback personalizzati per migliorare risultati e tecnica</li>
+  </ul>
+
+  <h4>📈 Focus sui Risultati</h4>
+  <ul>
+    <li>Dashboard e metriche chiare e misurabili</li>
+    <li>Approccio orientato alla costanza e alla progressione nel tempo</li>
+  </ul>
+
+  <p>
+    Questo posizionamento consente a BeastMode di aumentare il valore percepito del servizio, migliorare la retention degli utenti e creare un vantaggio competitivo sostenibile nel tempo.
+  </p>
 </section>
 
 <section id="acquisizione">
-  <h3>Slide 9: Canali di Acquisizione Utenti</h3>
+  <h3>Slide 11: Canali di Acquisizione Utenti</h3>
   <ul>
     <li>Social e community: Instagram, TikTok, YouTube</li>
     <li>Referral program: “invita un amico” per completare i gruppi di utenti</li>
@@ -339,7 +457,7 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
 </section>
 
 <section id="milestones">
-  <h3>Slide 10: Milestones & Prestito Richiesto</h3>
+  <h3>Slide 12: Milestones & Prestito Richiesto</h3>
   <ul>
     <li>Obiettivo primi 6 mesi: sviluppare MVP e testare il progetto con i primi utenti</li>
     <li>Target 6 mesi: 1.000+ utenti abbonati HYPER 3/6/12m e completamento dello sviluppo</li>
@@ -347,23 +465,32 @@ Il nostro obiettivo è rendere il progresso visibile, sostenibile e raggiungibil
   </ul>
 </section>
 
-<section id="elevator-pitch-beastmode" class="py-8 px-4 bg-gray-50 dark:bg-gray-800">
-  <div class="max-w-4xl mx-auto text-center">
-    <h2 class="text-3xl font-bold mb-4 text-gray-900 dark:text-white">Elevator Pitch – BeastMode</h2>
-    <p class="mb-4 text-lg text-gray-700 dark:text-gray-300">
-      Ciao, sono <strong>Alessandro Longo</strong>, fondatore di <strong>BeastMode</strong>. Sapete che la mancanza di guida personalizzata e motivazione è la principale barriera che frena molte persone nei loro obiettivi di fitness? Abbiamo creato BeastMode per abbattere questa barriera.
-    </p>
-    <p class="mb-4 text-lg text-gray-700 dark:text-gray-300">
-      BeastMode è una piattaforma digitale che integra allenamenti personalizzati in modo reale e scientifico, massimizzando i risultati in maniera impeccabile a differenza degli altri rivali, piani nutrizionali su misura, video tutorial dettagliati e supporto diretto dei coach. A differenza delle app generiche, con noi hai programmi su misura, progressi misurabili e motivazione costante.
-    </p>
-    <p class="mb-4 text-lg text-gray-700 dark:text-gray-300">
-      Abbiamo già progettato l’infrastruttura tecnologica con dashboard interattive, tracking dei progressi e integrazione con dispositivi fitness. I pagamenti e gli abbonamenti sono sicuri e senza pubblicità.
-    </p>
-    <p class="mb-6 text-lg text-gray-700 dark:text-gray-300">
-      Oggi cerchiamo un investimento iniziale di <strong>35.000€</strong> per completare lo sviluppo del MVP, Frontend Backend dell'app, produrre contenuti video, integrare i coach e lanciare il progetto sul mercato. Il         breakeven point è previsto entro i primi 3 mesi, in quanto se 36 clienti comprano a 970€ → 35.000€, 52 clienti da 670€ → 35.000€, 95 clienti da 370€ → 35.000€ lo raggiungiamo facile facile, e anzi lo superiamo easy.
-      Crediamo in una sua decisione finale positiva per rivoluzionare con noi il modo in cui le persone si allenano, siamo disposti a farlo diventare socio per il 10% della nostra azienda, che vale 350k.
-    </p>
-  </div>
+<section id="elevator-pitch-beastmode">
+  <h3>🚀 Elevator Pitch – BeastMode</h3>
+
+  <p>
+    BeastMode è una piattaforma digitale (Web + App) che integra allenamento personalizzato, nutrizione su misura e supporto dei coach in un’unica esperienza.
+  </p>
+
+  <p>
+    Oggi molte persone si allenano senza una guida strutturata, utilizzando soluzioni frammentate che spesso portano a risultati limitati o incoerenti.
+  </p>
+
+  <p>
+    BeastMode risolve questo problema offrendo percorsi personalizzati basati su obiettivi, dati e progressi misurabili, combinando schede adattive, piani nutrizionali e monitoraggio continuo.
+  </p>
+
+  <p>
+    A differenza delle soluzioni esistenti, spesso separate tra loro, la piattaforma unisce allenamento, nutrizione e supporto umano in un unico sistema integrato.
+  </p>
+
+  <p>
+    Il modello di business è basato su abbonamento freemium, con piani premium che includono funzionalità avanzate e accesso diretto ai coach.
+  </p>
+
+  <p>
+    L’obiettivo iniziale è sviluppare un MVP, validare il prodotto sul mercato e raccogliere dati reali per ottimizzare crescita e monetizzazione.
+  </p>
 </section>
 <h3>WBS</h3>
 
