@@ -458,11 +458,32 @@ BeastMode punta a diventare un punto di riferimento nel fitness digitale grazie 
 
 <section id="milestones">
   <h3>Slide 12: Milestones & Prestito Richiesto</h3>
+
+  <h4>🚀 Obiettivo 0–6 mesi</h4>
   <ul>
-    <li>Obiettivo primi 6 mesi: sviluppare MVP e testare il progetto con i primi utenti</li>
-    <li>Target 6 mesi: 1.000+ utenti abbonati HYPER 3/6/12m e completamento dello sviluppo</li>
-    <li>Prestito richiesto: 35.000€ per sviluppo, contenuti, integrazione coach e marketing iniziale</li>
+    <li>Sviluppo e lancio dell’MVP con funzionalità core (schede, tracking, contenuti base)</li>
+    <li>Test della piattaforma con i primi utenti beta</li>
+    <li>Validazione del modello di business e raccolta feedback reali</li>
   </ul>
+
+  <h4>📈 Target 6 mesi</h4>
+  <ul>
+    <li>1.000+ utenti registrati sulla piattaforma</li>
+    <li>Prime conversioni a piani premium (HYPER 3/6/12 mesi)</li>
+    <li>Ottimizzazione del prodotto sulla base dei dati raccolti</li>
+  </ul>
+
+  <h4>💰 Prestito richiesto</h4>
+  <ul>
+    <li>35.000€ destinati a sviluppo Web/App e infrastruttura tecnica</li>
+    <li>Produzione contenuti video e materiali formativi</li>
+    <li>Integrazione coach e sistemi di supporto utenti</li>
+    <li>Marketing iniziale e acquisizione utenti (fase di lancio)</li>
+  </ul>
+
+  <p>
+    L’obiettivo è validare rapidamente il prodotto sul mercato, ottimizzare il modello di business e preparare la fase di scalabilità basata su dati reali.
+  </p>
 </section>
 
 <section id="elevator-pitch-beastmode">
